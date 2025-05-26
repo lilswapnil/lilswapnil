@@ -3,7 +3,7 @@
 💻 Full-Stack Developer | AI Integrator | Cloud-Native Architect  
 🔭 Currently seeking **Full-Time Software Engineering / Full-Stack / AI Engineer** roles (Remote or Hybrid)
 
-### ✨ My BrainStorming Mantra
+### ✨ My BrainStorming Mantra:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
@@ -16,7 +16,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 Notable Achievements
+## 🏆 Notable Achievements:
 
 - 🔁 90% CI/CD automation using GitHub Actions, Docker, and Terraform on Azure  
 - 📈 Improved system performance by 40% via advanced SQL and ETL pipeline optimization  
