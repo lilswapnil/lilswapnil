@@ -39,8 +39,8 @@
 
 ## 📫 Let's Connect!
 
+- 📬 Email: lilscotty1@icloud.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/lilswapnil/)  
-- 📬 Email: ssbhaler@syr.edu  
 - 🌍 [Portfolio Website](https://www.lilswapnil.com/)
 
 🔭 Currently seeking **Full-Time Software Engineering / Full-Stack / AI Engineer** roles (Remote or Hybrid)
