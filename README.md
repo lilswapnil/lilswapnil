@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Swapnil Bhalerao  
+# 👋 Hi, I'm Swapnil Bhalerao  
 🎓 Master’s in Computer Science @ Syracuse University ('25)  
 💻 Full-Stack Developer | AI Integrator | Cloud-Native Architect  
 🌐 Building scalable, intelligent systems that actually ship.
