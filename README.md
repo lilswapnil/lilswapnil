@@ -47,11 +47,11 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lilswapnil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lilswapnil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lilswapnil)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lilswapnil)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lilscotty1@icloud.com)
+&nbsp; &nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lilswapnil)
+&nbsp; &nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lilswapnil)
+&nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lilswapnil)
+&nbsp; &nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lilswapnil)
+&nbsp; &nbsp;[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lilscotty1@icloud.com)
 
 ---
 
