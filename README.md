@@ -6,7 +6,6 @@
 🌐 Building scalable, intelligent systems that actually ship.
 
 
-
 ## 🔧 Tech Stack  
 - Languages: Python, JavaScript (ES6+), TypeScript, Java, SQL, C++, Bash  
 - Frontend: React, Next.js, HTML5, CSS3, TailwindCSS, Bootstrap  
@@ -14,7 +13,6 @@
 - Data & AI: SQL, MongoDB, MySQL, PostgreSQL, Power BI, Tableau, scikit-learn, Transformers, BERT, LLaMA, LangChain  
 - DevOps & Cloud: Docker, Kubernetes, GitHub Actions, Azure, AWS (EC2, S3, Lambda), Terraform
 
----
 
 ## 🚀 Recent Projects
 
@@ -30,7 +28,6 @@
   ESP32 + MQTT sensor fusion for animal tracking with 90% false-positive reduction  
   → MicroPython + ThingSpeak Cloud
 
----
 
 ## 🏆 Notable Achievements
 
@@ -39,7 +36,6 @@
 - 🎯 Delivered AI-powered dashboards and ERP modules serving 10K+ users  
 - 🤝 Mentored 10+ international students on communication and academic integration
 
----
 
 ## 📫 Let's Connect!
 
@@ -49,7 +45,6 @@
 
 🔭 Currently seeking **Full-Time Software Engineering / Full-Stack / AI Engineer** roles (Remote or Hybrid)
 
----
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lilswapnil)
