@@ -15,22 +15,6 @@
 - Data & AI: SQL, MongoDB, MySQL, PostgreSQL, Power BI, Tableau, scikit-learn, Transformers, BERT, LLaMA, LangChain  
 - DevOps & Cloud: Docker, Kubernetes, GitHub Actions, Azure, AWS (EC2, S3, Lambda), Terraform
 
-
-## 🚀 Recent Projects
-
-- 📊 Internal Reporting Dashboard  
-  React + FastAPI system to streamline reporting at Syracuse iConsult; improved data latency by 40%  
-  → CI/CD with GitHub Actions, Docker, Terraform on Azure
-
-- 🤖 AI-Driven LMS Performance Tracker  
-  Integrated BERT/LLaMA with LangChain & FAISS for smart academic forecasting  
-  → 85% model accuracy, deployed on Docker/Kubernetes
-
-- 🌿 Smart Wildlife Monitoring System (IoT)  
-  ESP32 + MQTT sensor fusion for animal tracking with 90% false-positive reduction  
-  → MicroPython + ThingSpeak Cloud
-
-
 ## 🏆 Notable Achievements
 
 - 🔁 90% CI/CD automation using GitHub Actions, Docker, and Terraform on Azure  
