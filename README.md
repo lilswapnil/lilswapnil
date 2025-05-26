@@ -1,7 +1,6 @@
 # Hi, I'm Swapnil Bhalerao 👋 
 🎓 Master’s in Computer Science @ Syracuse University ('25)  
 💻 Full-Stack Developer | AI Integrator | Cloud-Native Architect  
-🌐 Building scalable, intelligent systems that actually ship.
 🔭 Currently seeking **Full-Time Software Engineering / Full-Stack / AI Engineer** roles (Remote or Hybrid)
 
 ### ✨ My BrainStorming Mantra
