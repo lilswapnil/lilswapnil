@@ -41,7 +41,7 @@
 
 ### 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/lilswapnil/)  
-- 📬 Email: lilscotty1@icloud.com
+- 📬 [Email] (lilscotty1@icloud.com)
 - 🌍 [Portfolio Website](https://www.lilswapnil.com)
 
 ---
