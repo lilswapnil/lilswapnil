@@ -5,7 +5,7 @@
 💻 Full-Stack Developer | AI Integrator | Cloud-Native Architect  
 🌐 Building scalable, intelligent systems that actually ship.
 
-### ✨ My Mantra
+### ✨ My BrainStorming Mantra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 🔧 Tech Stack  
