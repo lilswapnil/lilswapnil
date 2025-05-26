@@ -5,6 +5,8 @@
 💻 Full-Stack Developer | AI Integrator | Cloud-Native Architect  
 🌐 Building scalable, intelligent systems that actually ship.
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 🔧 Tech Stack  
 - Languages: Python, JavaScript (ES6+), TypeScript, Java, SQL, C++, Bash  
@@ -78,5 +80,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
