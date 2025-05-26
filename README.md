@@ -7,7 +7,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
-## 📊 Stats:
+## 📊 Contribution Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=gotham&hide_border=false)
 &nbsp; &nbsp; &nbsp; &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
