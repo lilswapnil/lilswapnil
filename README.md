@@ -4,6 +4,7 @@
 🔭 Currently seeking **Full-Time Software Engineering / Full-Stack / AI Engineer** roles (Remote or Hybrid)
 
 ### ✨ My BrainStorming Mantra:
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
