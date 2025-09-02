@@ -10,7 +10,7 @@
 ## 🚀 Featured Projects  
 
 ### 🤖 Artificial Intelligence & Data Science
-- [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System.git)  
+- [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping)  
   Built a **content-based recommender** using BERT embeddings, improving recommendation accuracy by 30%.  
   *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker  
 
