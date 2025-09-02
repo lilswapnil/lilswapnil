@@ -11,35 +11,34 @@
 
 ### 🤖 Artificial Intelligence & Data Science
 - [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping)  
-  Built a **content-based recommender** using BERT embeddings, improving recommendation accuracy by 30%.  
+  Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, improving recommendation accuracy by **30%**. Deployed with Flask and Docker for scalability.  
   *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker  
 
 - [**Gomoku Game AI**](https://github.com/lilswapnil/Gomuku-Game-AI)  
-  Implemented **Minimax with Alpha-Beta Pruning** to create an unbeatable AI opponent in the classic board game.  
-  *Tech:* Python, Game AI, Search Algorithms   
+  Designed an AI agent with **Minimax + Alpha-Beta Pruning**, achieving near-perfect play in the Gomoku board game.  
+  *Tech:* Python, Game AI, Search Algorithms  
 
 ---
 
 ### 🌐 Full-Stack Development
 - [**University Recruitment ERP System**](https://github.com/lilswapnil/University-Recruitment-Database)  
-  Scalable ERP reducing manual recruitment tasks by 70% with SQL/PLSQL and Excel automation.  
+  Built a scalable ERP that reduced manual recruitment tasks by **70%** through SQL/PLSQL automation and Dockerized deployment. Integrated dashboards for multi-institution onboarding.  
   *Tech:* SQL Server, MySQL, Docker, PL/SQL, React, Node.js  
 
-
-- [**E-Commerce Platform (MERN + Stripe)**](https://github.com/lilswapnil/MERN-Ecommerce.git) *(Demo)*  
-  Designed an online store with authentication, cart system, and payment integration.  
-  *Tech:* MongoDB, Express, React, Node.js, Stripe API  
+- [**Musix (MERN + AI)**](https://github.com/lilswapnil/MERN-Ecommerce.git) *(Demo)*  
+  Created a **personalized music recommendation platform**, boosting user retention by **15%** with real-time updates and dynamic UI. Secured authentication using OAuth 2.0, JWT, and RESTful APIs; integrated Spotify API for playlist curation.  
+  *Tech:* MongoDB, Express, React, Node.js, Spotify API, Python  
 
 ---
 
 ### ☁️ Cloud, DevOps & Automation
 - [**CI/CD Automation on Azure**](https://github.com/lilswapnil/DevOps-CI-CD.git)  
-  Automated 90% of deployments using GitHub Actions, Docker, and Terraform on Azure.  
+  Automated **90% of deployments** by integrating GitHub Actions, Docker, and Terraform into an Azure pipeline. Scaled workloads with Kubernetes.  
   *Tech:* Docker, GitHub Actions, Terraform, Azure, Kubernetes  
 
-- [**Smart-Wildlife-Monitoring-System **](https://github.com/lilswapnil/Smart-Wildlife-Monitoring-System)  
-  Connected multiple IoT sensors to **ThingSpeak Cloud** for real-time analytics.  
-  *Tech:* Python, ESP32, ThingSpeak API, REST, MQTT  
+- [**Smart Wildlife Monitoring System**](https://github.com/lilswapnil/Smart-Wildlife-Monitoring-System)  
+  Engineered an IoT-based monitoring system using ESP32 sensors and cloud pipelines, streaming real-time wildlife activity data to ThingSpeak for predictive analytics.  
+  *Tech:* Python, ESP32, ThingSpeak API, REST, MQTT   
 
 ---
 
