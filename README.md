@@ -1,7 +1,5 @@
 # Hi, I'm Swapnil (Scott) Bhalerao 👋 
-🎓 Master’s in Computer Science @ Syracuse University ('25)  
-💻 Full-Stack Developer | AI Integrator | Cloud-Native Architect  
-🔭 Currently seeking **Full-Time Software Engineering / Full-Stack / AI Engineer** roles (Remote or Hybrid)
+🎓 Master’s in Computer Science @ Syracuse University ('25) | Full-Stack Developer | AI Enthusiastic | Cloud-Native Architect  
 
 ## 🚀 Featured Projects  
 
