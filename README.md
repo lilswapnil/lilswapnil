@@ -7,6 +7,48 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+## 🚀 Featured Projects  
+
+### 🤖 Artificial Intelligence & Data Science
+- [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System)  
+  Built a **content-based recommender** using BERT embeddings, improving recommendation accuracy by 30%.  
+  *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker  
+
+- [**Gomoku Game AI**](https://github.com/lilswapnil/Gomuku-Game-AI)  
+  Implemented **Minimax with Alpha-Beta Pruning** to create an unbeatable AI opponent in the classic board game.  
+  *Tech:* Python, Game AI, Search Algorithms  
+
+- [**AI-Powered Resume & Job Matcher**](https://github.com/lilswapnil/AI-Resume-Matcher) *(Planned/Prototype)*  
+  NLP-based matcher aligning resumes with job descriptions for **ATS optimization**.  
+  *Tech:* HuggingFace, Scikit-learn, FastAPI  
+
+---
+
+### 🌐 Full-Stack Development
+- [**University Recruitment ERP System**](https://github.com/lilswapnil/University-Recruitment-Database)  
+  Scalable ERP reducing manual recruitment tasks by 70% with SQL/PLSQL and Excel automation.  
+  *Tech:* SQL Server, MySQL, Docker, PL/SQL, React, Node.js  
+
+- [**Personal Portfolio Website**](https://www.lilswapnil.com/)  
+  Built and deployed a **responsive developer portfolio** with modern frontend stack.  
+  *Tech:* React, Next.js, TailwindCSS, Vercel  
+
+- [**E-Commerce Platform (MERN + Stripe)**](https://github.com/lilswapnil/MERN-Ecommerce) *(Demo)*  
+  Designed an online store with authentication, cart system, and payment integration.  
+  *Tech:* MongoDB, Express, React, Node.js, Stripe API  
+
+---
+
+### ☁️ Cloud, DevOps & Automation
+- [**CI/CD Automation on Azure**](https://github.com/lilswapnil/DevOps-CI-CD)  
+  Automated 90% of deployments using GitHub Actions, Docker, and Terraform on Azure.  
+  *Tech:* Docker, GitHub Actions, Terraform, Azure, Kubernetes  
+
+- [**IoT Sensor Data Pipeline**](https://github.com/lilswapnil/IoT-Cloud-Pipeline)  
+  Connected multiple IoT sensors to **ThingSpeak Cloud** for real-time analytics.  
+  *Tech:* Python, ESP32, ThingSpeak API, REST, MQTT  
+
+---
 
 ## 📊 Contribution Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=gotham&hide_border=false)
