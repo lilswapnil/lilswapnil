@@ -14,7 +14,7 @@
   Built a **content-based recommender** using BERT embeddings, improving recommendation accuracy by 30%.  
   *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker  
 
-- [**Gomoku Game AI**](https://github.com/lilswapnil/Gomuku-Game-AI.git)  
+- [**Gomoku Game AI**](https://github.com/lilswapnil/Gomuku-Game-AI)  
   Implemented **Minimax with Alpha-Beta Pruning** to create an unbeatable AI opponent in the classic board game.  
   *Tech:* Python, Game AI, Search Algorithms  
 
