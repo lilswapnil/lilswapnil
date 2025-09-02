@@ -36,17 +36,6 @@
 
 ---
 
-### ✨ My BrainStorming Mantra:
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-## 📊 Contribution Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=gotham&hide_border=false)
-&nbsp; &nbsp; &nbsp; &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 Notable Achievements:
@@ -55,6 +44,17 @@
 - 📈 Improved system performance by 40% via advanced SQL and ETL pipeline optimization  
 - 🎯 Delivered AI-powered dashboards and ERP modules serving 10K+ users  
 - 🤝 Mentored 10+ international students on communication and academic integration
+
+---
+
+### ✨ My BrainStorming Mantra:
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+## 📊 Contribution Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=gotham&hide_border=false)
+&nbsp; &nbsp; &nbsp; &nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
