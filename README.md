@@ -3,10 +3,6 @@
 💻 Full-Stack Developer | AI Integrator | Cloud-Native Architect  
 🔭 Currently seeking **Full-Time Software Engineering / Full-Stack / AI Engineer** roles (Remote or Hybrid)
 
-### ✨ My BrainStorming Mantra:
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ## 🚀 Featured Projects  
 
 ### 🤖 Artificial Intelligence & Data Science
@@ -41,6 +37,10 @@
   *Tech:* Python, ESP32, ThingSpeak API, REST, MQTT   
 
 ---
+
+### ✨ My BrainStorming Mantra:
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 📊 Contribution Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=gotham&hide_border=false)
