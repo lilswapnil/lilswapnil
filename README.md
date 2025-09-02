@@ -15,14 +15,14 @@
 ---
 
 ### 🌐 Full-Stack Development
-- [**University Recruitment ERP System**](https://github.com/lilswapnil/University-Recruitment-Database)  
-  Built a scalable ERP that reduced manual recruitment tasks by **70%** through SQL/PLSQL automation and Dockerized deployment. Integrated dashboards for multi-institution onboarding.  
-  *Tech:* SQL Server, MySQL, Docker, PL/SQL, React, Node.js  
-
 - [**Musix (MERN + AI)**](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://lilswapnil.github.io/musix/))*  
   Created a **personalized music recommendation platform**, boosting user retention by **15%** with real-time updates and dynamic UI. Secured authentication using OAuth 2.0, JWT, and RESTful APIs; integrated Spotify API for playlist curation.  
-  *Tech:* MongoDB, Express, React, Node.js, Spotify API, Python  
-
+  *Tech:* MongoDB, Express, React, Node.js, Spotify API, Python
+  
+- [**University Recruitment ERP System**](https://github.com/lilswapnil/University-Recruitment-Database)  
+  Built a scalable ERP that reduced manual recruitment tasks by **70%** through SQL/PLSQL automation and Dockerized deployment. Integrated dashboards for multi-institution onboarding.  
+  *Tech:* SQL Server, MySQL, Docker, PL/SQL, React, Node.js
+  
 ---
 
 ### ☁️ Cloud, DevOps & Automation
