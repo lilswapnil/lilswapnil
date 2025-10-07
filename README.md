@@ -8,7 +8,7 @@
   Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, improving recommendation accuracy by **30%**. Deployed with Flask and Docker for scalability.  
   *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker
 
-- [**Agentic AI LMS Assistant (LoRA +LLM)**](https://github.com/lilswapnil/LMS-using-agenticAI)
+- [**Agentic AI LMS Assistant (LoRA +LLM)**](https://github.com/lilswapnil/LMS-using-agenticAI)\
     Fine-tuned a small open-source LLM to act as an **agentic AI assistant** for academic and enterprise systems, handling tool-augmented tasks like policy lookup, grade queries, and algebra tutoring. Achieved a lightweight setup that runs on CPU-only devices via LoRA fine-tuning, with an integrated evaluation suite to ensure accurate results.
     *Tech:* Python, PyTorch, HuggingFace Transformers, LoRA
 -   [**Anime Character Generator (OpenAI DALL-E + Next.js)**](https://github.com/lilswapnil/AI-anime-character-generator)\
