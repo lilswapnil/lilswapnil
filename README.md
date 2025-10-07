@@ -39,7 +39,7 @@
 
 - [**Gomoku Game AI**](https://github.com/lilswapnil/Gomuku-Game-AI)  
   Designed an AI agent with **Minimax + Alpha-Beta Pruning**, achieving near-perfect play in the Gomoku board game.  
-  *Tech:* Python, Game AI, Search Algorithms  
+  *Tech:* Python, Numpy, Game AI, Search Algorithms  
 
 ---
 
