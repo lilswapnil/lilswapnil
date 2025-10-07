@@ -1,6 +1,17 @@
 # Hi, I'm Swapnil (Scott) Bhalerao 👋 
 🎓 Master’s in Computer Science @ Syracuse University ('25) | Full-Stack Developer | AI Enthusiastic | Cloud-Native Architect  
 
+## 🏆 Notable Achievements  
+
+- ⚙️ **Automated CI/CD pipelines** using GitHub Actions, Docker, and Terraform on Azure — cutting deployment cycles by **93%** and boosting release frequency.  
+- 📊 **Enhanced system performance by 40%** through advanced SQL optimization, ETL tuning, and caching across PostgreSQL and AWS services.  
+- 🤖 **Built LLM-powered chatbot** integrated into LMS/ERP systems, achieving **60% faster query resolution** and **99.9% uptime** across 5,000+ student interactions.  
+- 🌍 **Delivered enterprise dashboards & ERP modules** for **10K+ active users**, automating academic and recruitment workflows by **70%**.  
+- 🧠 **Led AI-driven R&D projects** (BERT, Transformers, FastAPI) improving model accuracy by **14–30%** over baseline ML implementations.  
+- 🧩 **Bridged business and engineering teams** at iConsult, aligning technical solutions with strategic client goals to boost adoption and satisfaction.  
+- 🤝 **Mentored 10+ international students**, enhancing their technical communication, system design, and cloud development proficiency.  
+
+
 ## 🚀 Featured Projects  
 
 ### 🤖 Artificial Intelligence & Data Science
@@ -44,15 +55,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏆 Notable Achievements:
-
-- 🔁 90% CI/CD automation using GitHub Actions, Docker, and Terraform on Azure  
-- 📈 Improved system performance by 40% via advanced SQL and ETL pipeline optimization  
-- 🎯 Delivered AI-powered dashboards and ERP modules serving 10K+ users  
-- 🤝 Mentored 10+ international students on communication and academic integration
-
----
 
 ## 📊 Contribution Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=gotham&hide_border=false)
