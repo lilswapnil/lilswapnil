@@ -33,6 +33,10 @@
     Built an AI-powered web app that generates **unique anime characters** from user text descriptions using OpenAI's DALL-E, bringing creative ideas to life in seconds. Implemented a Next.js front-end for a smooth, responsive interface and integrated the  DALL-E API for image creation.
     *Tech:* Next.js, TypeScript, OpenAI DALL-E API, Tailwind CSS
 
+- [**BookScraper**](https://github.com/lilswapnil/BookScraper)  
+  Developed a **web crawler** using Scrapy to extract detailed book data (titles, prices, ratings, and availability) from online bookstores. Automated data collection for **1,000+ books**, eliminating manual scraping and supporting large-scale dataset generation.  
+  *Tech:* Python, Scrapy, BeautifulSoup, Pandas  
+
 - [**Gomoku Game AI**](https://github.com/lilswapnil/Gomuku-Game-AI)  
   Designed an AI agent with **Minimax + Alpha-Beta Pruning**, achieving near-perfect play in the Gomoku board game.  
   *Tech:* Python, Game AI, Search Algorithms  
