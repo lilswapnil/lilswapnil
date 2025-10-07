@@ -6,7 +6,14 @@
 ### 🤖 Artificial Intelligence & Data Science
 - [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping)  
   Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, improving recommendation accuracy by **30%**. Deployed with Flask and Docker for scalability.  
-  *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker  
+  *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker
+
+- [**Agentic AI LMS Assistant (LoRA +LLM)**](https://github.com/lilswapnil/LMS-using-agenticAI)
+    Fine-tuned a small open-source LLM to act as an **agentic AI assistant** for academic and enterprise systems, handling tool-augmented tasks like policy lookup, grade queries, and algebra tutoring. Achieved a lightweight setup that runs on CPU-only devices via LoRA fine-tuning, with an integrated evaluation suite to ensure accurate results.
+    *Tech:* Python, PyTorch, HuggingFace Transformers, LoRA
+-   [**Anime Character Generator (OpenAI DALL-E + Next.js)**](https://github.com/lilswapnil/AI-anime-character-generator)\
+    Built an AI-powered web app that generates **unique anime characters** from user text descriptions using OpenAI's DALL-E, bringing creative ideas to life in seconds. Implemented a Next.js front-end for a smooth, responsive interface and integrated the  DALL-E API for image creation.
+    *Tech:* Next.js, TypeScript, OpenAI DALL-E API, Tailwind CSS
 
 - [**Gomoku Game AI**](https://github.com/lilswapnil/Gomuku-Game-AI)  
   Designed an AI agent with **Minimax + Alpha-Beta Pruning**, achieving near-perfect play in the Gomoku board game.  
