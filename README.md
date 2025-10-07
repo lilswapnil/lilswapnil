@@ -3,7 +3,7 @@
 
 ## 🏆 Notable Achievements  
 
-- ⚙️ **Automated CI/CD pipelines** using GitHub Actions, Docker, and Terraform on Azure — cutting deployment cycles by **93%** and boosting release frequency.  
+- ⚙️ **Automated CI/CD pipelines** using GitHub Actions, Docker, and Terraform on Azure, cutting deployment cycles by **93%** and boosting release frequency.  
 - 📊 **Enhanced system performance by 40%** through advanced SQL optimization, ETL tuning, and caching across PostgreSQL and AWS services.  
 - 🤖 **Built LLM-powered chatbot** integrated into LMS/ERP systems, achieving **60% faster query resolution** and **99.9% uptime** across 5,000+ student interactions.  
 - 🌍 **Delivered enterprise dashboards & ERP modules** for **10K+ active users**, automating academic and recruitment workflows by **70%**.  
@@ -11,6 +11,16 @@
 - 🧩 **Bridged business and engineering teams** at iConsult, aligning technical solutions with strategic client goals to boost adoption and satisfaction.  
 - 🤝 **Mentored 10+ international students**, enhancing their technical communication, system design, and cloud development proficiency.  
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 Contribution Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=gotham&hide_border=false)
+&nbsp; &nbsp; &nbsp; &nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 🚀 Featured Projects  
 
@@ -51,17 +61,6 @@
 - [**Smart Wildlife Monitoring System**](https://github.com/lilswapnil/Smart-Wildlife-Monitoring-System)  
   Engineered an IoT-based monitoring system using ESP32 sensors and cloud pipelines, streaming real-time wildlife activity data to ThingSpeak for predictive analytics.  
   *Tech:* Python, ESP32, ThingSpeak API, REST, MQTT   
-
----
-
-[![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 📊 Contribution Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=gotham&hide_border=false)
-&nbsp; &nbsp; &nbsp; &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ### ✨ My BrainStorming Mantra:
 
