@@ -9,9 +9,7 @@
 - 🌍 **Delivered enterprise dashboards & ERP modules** for **10K+ active users**, automating academic and recruitment workflows by **70%**.  
 - 🧠 **Led AI-driven R&D projects** (BERT, Transformers, FastAPI) improving model accuracy by **14–30%** over baseline ML implementations.  
 - 🧩 **Bridged business and engineering teams** at iConsult, aligning technical solutions with strategic client goals to boost adoption and satisfaction.  
-
 ---
-
 [![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📊 Contribution Stats:
