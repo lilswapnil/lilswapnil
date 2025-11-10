@@ -25,6 +25,7 @@
 
 ### 🤖 Artificial Intelligence & Data Science
 - [**Financial Analyst Advisor (RAG + LoRA)**](https://github.com/lilswapnil/genAI-financial-advisor) | *Tech:* Python, PyTorch, Transformers, LangChain, PEFT (LoRA), FastAPI, ChromaDB
+
   A cutting-edge **Retrieval-Augmented Generation (RAG)** chatbot powered by a **fine-tuned LLaMA model with LoRA**. It intelligently analyzes SEC financial reports (10-K, 10-Q) and answers complex financial questions.
 
 - [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping) | *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker
