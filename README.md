@@ -36,7 +36,7 @@
     Fine-tuned a small open-source LLM to act as an **agentic AI assistant** for academic and enterprise systems, handling tool-augmented tasks like policy lookup, grade queries, and algebra tutoring. Achieved a lightweight setup that runs on CPU-only devices via LoRA fine-tuning, with an integrated evaluation suite to ensure accurate results.
     *Tech:* Python, PyTorch, HuggingFace Transformers, LoRA
   
--   [**Anime Character Generator (OpenAI DALL-E + Next.js)**](https://github.com/lilswapnil/AI-anime-character-generator)\
+- [**Anime Character Generator (OpenAI DALL-E + Next.js)**](https://github.com/lilswapnil/AI-anime-character-generator)\
     Built an AI-powered web app that generates **unique anime characters** from user text descriptions using OpenAI's DALL-E, bringing creative ideas to life in seconds. Implemented a Next.js front-end for a smooth, responsive interface and integrated the  DALL-E API for image creation.
     *Tech:* Next.js, TypeScript, OpenAI DALL-E API, Tailwind CSS
 
