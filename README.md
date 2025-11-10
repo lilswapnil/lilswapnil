@@ -25,41 +25,40 @@
 
 ### 🤖 Artificial Intelligence & Data Science
 - [**Financial Analyst Advisor (RAG + LoRA)**](https://github.com/lilswapnil/genAI-financial-advisor) | *Tech:* Python, PyTorch, Transformers, LangChain, PEFT (LoRA), FastAPI, ChromaDB
-
-  A cutting-edge **Retrieval-Augmented Generation (RAG)** chatbot powered by a **fine-tuned LLaMA model with LoRA**. It intelligently analyzes SEC financial reports (10-K, 10-Q) and answers complex financial questions.
+   A cutting-edge **Retrieval-Augmented Generation (RAG)** chatbot powered by a **fine-tuned LLaMA model with LoRA**. It intelligently analyzes SEC financial reports (10-K, 10-Q) and answers complex financial questions.
 
 - [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping) | *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker
-  Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, improving recommendation accuracy by **30%**. Deployed with Flask and Docker for scalability.  
+  Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, improving recommendation accuracy by **30%**. Deployed with Flask and Docker for scalability.  
 
 - [**Agentic AI LMS Assistant (LoRA +LLM)**](https://github.com/lilswapnil/LMS-using-agenticAI) | *Tech:* Python, PyTorch, HuggingFace Transformers, LoRA
-    Fine-tuned a small open-source LLM to act as an **agentic AI assistant** for academic and enterprise systems, handling tool-augmented tasks like policy lookup, grade queries, and algebra tutoring. Achieved a lightweight setup that runs on CPU-only devices via LoRA fine-tuning, with an integrated evaluation suite to ensure accurate results.
+  Fine-tuned a small open-source LLM to act as an **agentic AI assistant** for academic and enterprise systems, handling tool-augmented tasks like policy lookup, grade queries, and algebra tutoring. Achieved a lightweight setup that runs on CPU-only devices via LoRA fine-tuning, with an integrated evaluation suite to ensure accurate results.
   
 - [**Anime Character Generator (OpenAI DALL-E + Next.js)**](https://github.com/lilswapnil/AI-anime-character-generator) | *Tech:* Next.js, TypeScript, OpenAI DALL-E API, Tailwind CSS
-    Built an AI-powered web app that generates **unique anime characters** from user text descriptions using OpenAI's DALL-E, bringing creative ideas to life in seconds. Implemented a Next.js front-end for a smooth, responsive interface and integrated the  DALL-E API for image creation.
+  Built an AI-powered web app that generates **unique anime characters** from user text descriptions using OpenAI's DALL-E, bringing creative ideas to life in seconds. Implemented a Next.js front-end for a smooth, responsive interface and integrated the  DALL-E API for image creation.
 
 - [**BookScraper**](https://github.com/lilswapnil/BookScraper) | *Tech:* Python, Scrapy, BeautifulSoup, Pandas   
-  Developed a **web crawler** using Scrapy to extract detailed book data (titles, prices, ratings, and availability) from online bookstores. Automated data collection for **1,000+ books**, eliminating manual scraping and supporting large-scale dataset generation.  
+  Developed a **web crawler** using Scrapy to extract detailed book data (titles, prices, ratings, and availability) from online bookstores. Automated data collection for **1,000+ books**, eliminating manual scraping and supporting large-scale dataset generation.  
 
 - [**Gomoku Game AI**](https://github.com/lilswapnil/Gomuku-Game-AI) | *Tech:* Python, Numpy, Game AI, Search Algorithms  
-  Designed an AI agent with **Minimax + Alpha-Beta Pruning**, achieving near-perfect play in the Gomoku board game.  
+  Designed an AI agent with **Minimax + Alpha-Beta Pruning**, achieving near-perfect play in the Gomoku board game.  
 
 ---
 
 ### 🌐 Full-Stack Development
 - [**Musix (MERN + AI)**](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://lilswapnil.github.io/musix/))* | *Tech:* MongoDB, Express, React, Node.js, Spotify API, Python
-  Created a **personalized music recommendation platform**, boosting user retention by **15%** with real-time updates and dynamic UI. Secured authentication using OAuth 2.0, JWT, and RESTful APIs; integrated Spotify API for playlist curation. 
+  Created a **personalized music recommendation platform**, boosting user retention by **15%** with real-time updates and dynamic UI. Secured authentication using OAuth 2.0, JWT, and RESTful APIs; integrated Spotify API for playlist curation. 
   
 - [**University Recruitment ERP System**](https://github.com/lilswapnil/University-Recruitment-Database) | *Tech:* SQL Server, MySQL, Docker, PL/SQL, React, Node.js
-  Built a scalable ERP that reduced manual recruitment tasks by **70%** through SQL/PLSQL automation and Dockerized deployment. Integrated dashboards for multi-institution onboarding.  
+  Built a scalable ERP that reduced manual recruitment tasks by **70%** through SQL/PLSQL automation and Dockerized deployment. Integrated dashboards for multi-institution onboarding.  
   
 ---
 
 ### ☁️ Cloud, DevOps & Automation
 - [**CI/CD Automation on Azure**](https://github.com/lilswapnil/DevOps-CI-CD.git) | *Tech:* Docker, GitHub Actions, Terraform, Azure, Kubernetes  
-  Automated **90% of deployments** by integrating GitHub Actions, Docker, and Terraform into an Azure pipeline. Scaled workloads with Kubernetes.  
+  Automated **90% of deployments** by integrating GitHub Actions, Docker, and Terraform into an Azure pipeline. Scaled workloads with Kubernetes.  
 
 - [**Smart Wildlife Monitoring System**](https://github.com/lilswapnil/Smart-Wildlife-Monitoring-System) | *Tech:* Python, ESP32, ThingSpeak API, REST, MQTT
-  Engineered an IoT-based monitoring system using ESP32 sensors and cloud pipelines, streaming real-time wildlife activity data to ThingSpeak for predictive analytics.  
+  Engineered an IoT-based monitoring system using ESP32 sensors and cloud pipelines, streaming real-time wildlife activity data to ThingSpeak for predictive analytics.  
   
 ## 💻 Tech Stack Universe:
 
