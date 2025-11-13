@@ -5,16 +5,16 @@
 
 ## 🏆 Notable Achievements
 
-> ### DevOps & Cloud Automation
+> ### [DevOps & Cloud Automation](https://github.com/lilswapnil/DevOps-CI-CD.git)
 > Automated CI/CD pipelines on Azure using GitHub Actions, Docker, & Terraform, cutting deployment cycles by 93%.
 
-> ### AI & LLM System Development
+> ### [AI & LLM System Development](https://github.com/lilswapnil/llm-from-scratch)
 > Led R&D on BERT & Transformers, improving model accuracy by 14-30%. Deployed an LLM chatbot that achieved 60% faster query resolution for 5,000+ users.
 
-> ### Enterprise Application & Performance
+> ### [Enterprise Application & Performance](https://github.com/lilswapnil/University-Recruitment-Database)
 > Delivered ERP modules for 10K+ active users, automating workflows by 70%. Enhanced system performance by 40% through advanced SQL and AWS optimizations.
 
-> ### Technical & Business Leadership
+> ### [Technical & Business Leadership](https://ecologyprime.com/the-iconsult-collaborative-team)
 > Bridged business and engineering teams at iConsult, translating client goals into technical solutions that boosted product adoption and satisfaction.
 
 ---
