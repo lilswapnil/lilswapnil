@@ -21,6 +21,18 @@
 
 # 🚀 Featured Projects
 
+#### 🌐 Full-Stack Development
+
+> ### [🎧 Musix (MERN + AI)](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://lilswapnil.github.io/musix/))*
+> Created a **personalized music recommendation platform** that boosted user retention by **15%**. Features secure authentication (OAuth 2.0, JWT) and deep integration with the Spotify API.
+>
+> **Tech Stack:** `MongoDB` `Express` `React` `Node.js` `Spotify API` `Python`
+
+> ### [🧑🏻‍🏫📈 University Recruitment ERP System](https://github.com/lilswapnil/University-Recruitment-Database)
+> Built a scalable ERP that reduced manual recruitment tasks by **70%**. The system uses SQL/PLSQL automation for complex queries and is fully Dockerized for cross-platform deployment.
+>
+> **Tech Stack:** `SQL Server` `MySQL` `Docker` `PL/SQL` `React` `Node.js`
+---
 #### 🤖 Artificial Intelligence & Data Science
 
 > ### [💰 Financial Analyst Advisor (RAG + LoRA)](https://github.com/lilswapnil/genAI-financial-advisor)
@@ -47,18 +59,6 @@
 > Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, which improved recommendation accuracy by **30%**. The system is deployed as a scalable web service.
 >
 > **Tech Stack:** `Python` `TensorFlow` `PyTorch` `Transformers` `Flask` `Docker`
----
-#### 🌐 Full-Stack Development
-
-> ### [🎧 Musix (MERN + AI)](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://lilswapnil.github.io/musix/))*
-> Created a **personalized music recommendation platform** that boosted user retention by **15%**. Features secure authentication (OAuth 2.0, JWT) and deep integration with the Spotify API.
->
-> **Tech Stack:** `MongoDB` `Express` `React` `Node.js` `Spotify API` `Python`
-
-> ### [🧑🏻‍🏫📈 University Recruitment ERP System](https://github.com/lilswapnil/University-Recruitment-Database)
-> Built a scalable ERP that reduced manual recruitment tasks by **70%**. The system uses SQL/PLSQL automation for complex queries and is fully Dockerized for cross-platform deployment.
->
-> **Tech Stack:** `SQL Server` `MySQL` `Docker` `PL/SQL` `React` `Node.js`
 ---
 #### ☁️ Cloud, DevOps & Automation
 
