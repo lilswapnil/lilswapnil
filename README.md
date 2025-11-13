@@ -3,6 +3,22 @@
 
 ---
 
+## 🏆 Notable Achievements
+
+> ### DevOps & Cloud Automation
+> Automated CI/CD pipelines on **Azure** using **GitHub Actions, Docker, & Terraform**, cutting deployment cycles by **93%**.
+
+> ### AI & LLM System Development
+> Led R&D on **BERT & Transformers**, improving model accuracy by **14-30%**. Deployed an LLM chatbot that achieved **60% faster query resolution** for 5,000+ users.
+
+> ### Enterprise Application & Performance
+> Delivered ERP modules for **10K+ active users**, automating workflows by **70%**. Enhanced system performance by **40%** through advanced SQL and AWS optimizations.
+
+> ### Technical & Business Leadership
+> Bridged business and engineering teams at iConsult, translating client goals into technical solutions that boosted product adoption and satisfaction.
+
+---
+
 ## 🚀 Featured Projects
 
 #### 🤖 Artificial Intelligence & Data Science
@@ -31,9 +47,7 @@
 > Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, which improved recommendation accuracy by **30%**. The system is deployed as a scalable web service.
 >
 > **Tech Stack:** `Python` `TensorFlow` `PyTorch` `Transformers` `Flask` `Docker`
-
 ---
-
 #### 🌐 Full-Stack Development
 
 > ### [🎧 Musix (MERN + AI)](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://lilswapnil.github.io/musix/))*
@@ -45,9 +59,7 @@
 > Built a scalable ERP that reduced manual recruitment tasks by **70%**. The system uses SQL/PLSQL automation for complex queries and is fully Dockerized for cross-platform deployment.
 >
 > **Tech Stack:** `SQL Server` `MySQL` `Docker` `PL/SQL` `React` `Node.js`
-
 ---
-
 #### ☁️ Cloud, DevOps & Automation
 
 > ### [⚙️ CI/CD Automation on Azure](https://github.com/lilswapnil/DevOps-CI-CD.git)
