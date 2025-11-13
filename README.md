@@ -4,13 +4,13 @@
 ### 🚀 Featured Projects
 
 #### 🤖 Artificial Intelligence & Data Science
-* [**Financial Analyst Advisor (RAG + LoRA)**](https://github.com/lilswapnil/genAI-financial-advisor) | *Tech:* Python, PyTorch, Transformers, LangChain, PEFT (LoRA), FastAPI, ChromaDB
+* [**💰 Financial Analyst Advisor (RAG + LoRA)**](https://github.com/lilswapnil/genAI-financial-advisor) | *Tech:* Python, PyTorch, Transformers, LangChain, PEFT (LoRA), FastAPI, ChromaDB
     * A cutting-edge **Retrieval-Augmented Generation (RAG)** chatbot powered by a **fine-tuned LLaMA model with LoRA**. It intelligently analyzes SEC financial reports (10-K, 10-Q) and answers complex financial questions.
 
-* [**Agentic AI LMS Assistant (LoRA +LLM)**](https://github.com/lilswapnil/LMS-using-agenticAI) | *Tech:* Python, PyTorch, HuggingFace Transformers, LoRA
+* [**🦾 Agentic AI LMS Assistant (LoRA +LLM)**](https://github.com/lilswapnil/LMS-using-agenticAI) | *Tech:* Python, PyTorch, HuggingFace Transformers, LoRA
     * Fine-tuned a small open-source LLM to act as an **agentic AI assistant** for academic and enterprise systems, handling tool-augmented tasks like policy lookup, grade queries, and algebra tutoring.
 
-* [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping) | *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker
+* [**🎥 Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping) | *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker
     * Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, improving recommendation accuracy by **30%**. Deployed with Flask and Docker for scalability.
 
 #### 🌐 Full-Stack Development
