@@ -13,9 +13,6 @@
 * [**Movie Recommendation System (BERT + Transformers)**](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping) | *Tech:* Python, TensorFlow, PyTorch, Transformers, Flask, Docker
     * Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, improving recommendation accuracy by **30%**. Deployed with Flask and Docker for scalability.
 
-* [**BookScraper**](https://github.com/lilswapnil/BookScraper) | *Tech:* Python, Scrapy, BeautifulSoup, Pandas
-    * Developed a **web crawler** using Scrapy to extract detailed book data (titles, prices, ratings, and availability) from online bookstores. Automated data collection for **1,000+ books**.
-
 #### 🌐 Full-Stack Development
 * [**Musix (MERN + AI)**](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://lilswapnil.github.io/musix/))* | *Tech:* MongoDB, Express, React, Node.js, Spotify API, Python
     * Created a **personalized music recommendation platform**, boosting user retention by **15%**. Secured authentication using OAuth 2.0, JWT, and RESTful APIs; integrated Spotify API.
