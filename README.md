@@ -40,7 +40,7 @@
 >
 > **Tech Stack:** `Python` `PyTorch` `Transformers` `LangChain` `PEFT (LoRA)` `FastAPI` `ChromaDB`
 
-> ### [🦾 Agentic AI LMS Assistant (LoRA +LLM)](https://github.com/lilswapnil/LMS-using-agenticAI)
+> ### [🦾 Agentic AI LMS Assistant (LoRA + LLM)](https://github.com/lilswapnil/LMS-using-agenticAI)
 > Fine-tuned a small open-source LLM to act as an **agentic AI assistant** for academic and enterprise systems, handling tool-augmented tasks like policy lookup, grade queries, and algebra tutoring.
 >
 > **Tech Stack:** `Python` `PyTorch` `HuggingFace Transformers` `LoRA`
@@ -55,7 +55,7 @@
 >
 > **Tech Stack:** `Python` `Transformers` `NLTK` `TextBlob` `Pandas` `Matplotlib`
 
-> ### [🎥 Movie Recommendation System (BERT)](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping)
+> ### [🎥 Movie Recommendation System (BERT + Transformers)](https://github.com/lilswapnil/Movie-Recommendation-System-using-Transformers-and-IMDb-web-scraping)
 > Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, which improved recommendation accuracy by **30%**. The system is deployed as a scalable web service.
 >
 > **Tech Stack:** `Python` `TensorFlow` `PyTorch` `Transformers` `Flask` `Docker`
