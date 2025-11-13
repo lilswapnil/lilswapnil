@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Swapnil (Scott) Bhalerao
-## 🎓 MS in CS @ Syracuse University ('25) | Full-Stack Developer | GenAI Enthusiast
+## 🎓 MSCS @ Syracuse University ('25) | Full-Stack Developer | GenAI Enthusiast
 
 ---
 
