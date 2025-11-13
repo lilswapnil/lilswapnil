@@ -14,17 +14,17 @@
     * Developed a **content-based recommender** using BERT embeddings and IMDb data scraping, improving recommendation accuracy by **30%**. Deployed with Flask and Docker for scalability.
 
 #### 🌐 Full-Stack Development
-* [**Musix (MERN + AI)**](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://lilswapnil.github.io/musix/))* | *Tech:* MongoDB, Express, React, Node.js, Spotify API, Python
+* [**🎧 Musix (MERN + AI)**](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://lilswapnil.github.io/musix/))* | *Tech:* MongoDB, Express, React, Node.js, Spotify API, Python
     * Created a **personalized music recommendation platform**, boosting user retention by **15%**. Secured authentication using OAuth 2.0, JWT, and RESTful APIs; integrated Spotify API.
 
-* [**University Recruitment ERP System**](https://github.com/lilswapnil/University-Recruitment-Database) | *Tech:* SQL Server, MySQL, Docker, PL/SQL, React, Node.js
+* [**🧑🏻‍🏫📈 University Recruitment ERP System**](https://github.com/lilswapnil/University-Recruitment-Database) | *Tech:* SQL Server, MySQL, Docker, PL/SQL, React, Node.js
     * Built a scalable ERP that reduced manual recruitment tasks by **70%** through SQL/PLSQL automation and Dockerized deployment.
 
 #### ☁️ Cloud, DevOps & Automation
 * [**CI/CD Automation on Azure**](https://github.com/lilswapnil/DevOps-CI-CD.git) | *Tech:* Docker, GitHub Actions, Terraform, Azure, Kubernetes
     * Automated **90% of deployments** by integrating GitHub Actions, Docker, and Terraform into an Azure pipeline. Scaled workloads with Kubernetes.
 
-* [**Smart Wildlife Monitoring System**](https://github.com/lilswapnil/Smart-Wildlife-Monitoring-System) | *Tech:* Python, ESP32, ThingSpeak API, REST, MQTT
+* [**🌳🦌 Forest Watch: Wildlife Monitoring System**](https://github.com/lilswapnil/Smart-Wildlife-Monitoring-System) | *Tech:* Python, ESP32, ThingSpeak API, REST, MQTT
     * Engineered an IoT-based monitoring system using ESP32 sensors and cloud pipelines, streaming real-time wildlife activity data to ThingSpeak for predictive analytics.
 
 ---
