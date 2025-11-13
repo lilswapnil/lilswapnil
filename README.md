@@ -6,13 +6,13 @@
 ## 🏆 Notable Achievements
 
 > ### DevOps & Cloud Automation
-> Automated CI/CD pipelines on **Azure** using **GitHub Actions, Docker, & Terraform**, cutting deployment cycles by **93%**.
+> Automated CI/CD pipelines on Azure using GitHub Actions, Docker, & Terraform, cutting deployment cycles by 93%.
 
 > ### AI & LLM System Development
-> Led R&D on **BERT & Transformers**, improving model accuracy by **14-30%**. Deployed an LLM chatbot that achieved **60% faster query resolution** for 5,000+ users.
+> Led R&D on BERT & Transformers, improving model accuracy by 14-30%. Deployed an LLM chatbot that achieved 60% faster query resolution for 5,000+ users.
 
 > ### Enterprise Application & Performance
-> Delivered ERP modules for **10K+ active users**, automating workflows by **70%**. Enhanced system performance by **40%** through advanced SQL and AWS optimizations.
+> Delivered ERP modules for 10K+ active users, automating workflows by 70%. Enhanced system performance by 40% through advanced SQL and AWS optimizations.
 
 > ### Technical & Business Leadership
 > Bridged business and engineering teams at iConsult, translating client goals into technical solutions that boosted product adoption and satisfaction.
