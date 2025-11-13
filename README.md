@@ -62,15 +62,16 @@
 ---
 #### ☁️ Cloud, DevOps & Automation
 
+> ### [🌳🦌 Forest Watch: Wildlife Monitoring System](https://github.com/lilswapnil/Smart-Wildlife-Monitoring-System)
+> Engineered an IoT-based monitoring system using ESP32 sensors and cloud data pipelines. The system streams real-time wildlife activity data via MQTT to ThingSpeak for predictive analytics.
+>
+> **Tech Stack:** `Python` `ESP32` `ThingSpeak API` `REST` `MQTT`
+
 > ### [⚙️ CI/CD Automation on Azure](https://github.com/lilswapnil/DevOps-CI-CD.git)
 > Automated **90% of deployments** for a web application by building a complete CI/CD pipeline integrating GitHub Actions, Docker, and Terraform with Azure cloud services, using Kubernetes for scaling.
 >
 > **Tech Stack:** `Docker` `GitHub Actions` `Terraform` `Azure` `Kubernetes`
 
-> ### [🌳🦌 Forest Watch: Wildlife Monitoring System](https://github.com/lilswapnil/Smart-Wildlife-Monitoring-System)
-> Engineered an IoT-based monitoring system using ESP32 sensors and cloud data pipelines. The system streams real-time wildlife activity data via MQTT to ThingSpeak for predictive analytics.
->
-> **Tech Stack:** `Python` `ESP32` `ThingSpeak API` `REST` `MQTT`
 ---
 
 [![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=0&color=0)](https://visitcount.itsvg.in)
