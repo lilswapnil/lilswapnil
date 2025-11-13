@@ -17,7 +17,7 @@
 >
 > **Tech Stack:** `Python` `PyTorch` `HuggingFace Transformers` `LoRA`
 
-> ### [LLM From Scratch (125M)](https://github.com/lilswapnil/llm-from-scratch)
+> ### [🧠 LLM From Scratch (125M)](https://github.com/lilswapnil/llm-from-scratch)
 > A step-by-step educational scaffold to build and train a small decoder-only LLM (≈125M parameters) from scratch, including tokenization, data sharding, and training implementation.
 >
 > **Tech Stack:** `Python` `PyTorch` `SentencePiece` `NumPy`
@@ -50,7 +50,7 @@
 
 #### ☁️ Cloud, DevOps & Automation
 
-> ### [CI/CD Automation on Azure](https://github.com/lilswapnil/DevOps-CI-CD.git)
+> ### [⚙️ CI/CD Automation on Azure](https://github.com/lilswapnil/DevOps-CI-CD.git)
 > Automated **90% of deployments** for a web application by building a complete CI/CD pipeline integrating GitHub Actions, Docker, and Terraform with Azure cloud services, using Kubernetes for scaling.
 >
 > **Tech Stack:** `Docker` `GitHub Actions` `Terraform` `Azure` `Kubernetes`
