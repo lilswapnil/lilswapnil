@@ -21,7 +21,7 @@
 
 #### 🌐 Full-Stack Development
 
-> ### [🎧 Musix (MERN + AI)](https://github.com/lilswapnil/MERN-Ecommerce.git) *([Demo](https://github.com/lilswapnil/musix.git))*
+> ### [🎧 Musix (MERN + AI)](https://github.com/lilswapnil/musix.git))
 > Created a **personalized music recommendation platform** that boosted user retention by **15%**. Features secure authentication (OAuth 2.0, JWT) and deep integration with the Spotify API.
 >
 > **Tech Stack:** `MongoDB` `Express` `React` `Node.js` `Spotify API` `Python`
