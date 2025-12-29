@@ -1,18 +1,26 @@
 # 👋 Hi, I'm Swapnil (Scott) Bhalerao
 ## 🎓 MSCS @ Syracuse University ('25) | Full-Stack Developer | GenAI Enthusiast
 
-# 🏆 Notable Achievements
+ # 🏆 Notable Achievements
 
-> ### [AI & LLM System Development](https://github.com/lilswapnil/llm-from-scratch)
-> Led R&D on BERT & Transformers, improving model accuracy by 14-30%. Deployed an LLM chatbot that achieved 60% faster query resolution for 5,000+ users.
+## 🗳️ Election Data Engineering & Reliability (Associated Press)
+Engineered high-availability **Python-based web scraping systems** for live election coverage, improving data ingestion efficiency by **72%** during peak traffic. Designed resilient proxy rotation, retry mechanisms, and monitoring hooks to maintain **99.9% uptime**, preventing data loss under national-scale workloads.
 
-> ### [Enterprise Application & Performance](https://github.com/lilswapnil/University-Recruitment-Database)
-> Delivered ERP modules for 10K+ active users, automating workflows by 70%. Enhanced system performance by 40% through advanced SQL and AWS optimizations.
+## 📊 Data Quality, ETL & Analytics Automation
+Built robust **ETL pipelines using Pandas and SQL** to normalize real-time data feeds, achieving **99% data accuracy** for downstream analytics and reporting. Automated validation and cleansing workflows that eliminated manual QA bottlenecks and stabilized production datasets at scale.
 
-> ### [Technical & Business Leadership](https://ecologyprime.com/the-iconsult-collaborative-team)
-> Bridged business and engineering teams at iConsult, translating client goals into technical solutions that boosted product adoption and satisfaction.
+## 🧠 Statistical Modeling & Cost Optimization (Street Care)
+Led **statistical analysis and ML-driven forecasting initiatives** that identified operational inefficiencies, reducing **annual costs by 15%**. Developed **SQL, R, and SAS dashboards** that shortened recurring reporting cycles by **12+ hours per month** for cross-functional teams.
 
----
+## 🛠️ Infrastructure Automation & IT Operations (Syracuse University Libraries)
+Automated **Linux/Unix server health checks** using Bash and PowerShell, saving **270+ staff hours annually** across institutional systems. Resolved **15K+ Tier-1/2 support incidents** across Windows, macOS, and Linux environments with an **11-minute average response time**, maintaining high service reliability.
+
+## 🚀 Scalable AI-Powered Enterprise Systems (Senior Software Engineer)
+Integrated **TensorFlow-based AI models** into ERP platforms, improving assessment accuracy by **24%** and reducing grading errors by **36%**. Scaled **AWS-hosted microservices** using Docker and Kubernetes to support **18K+ concurrent users** with zero downtime during academic peak cycles.
+
+## 💡 Business-Aligned Engineering Impact
+Collaborated closely with product, data, and academic stakeholders in **Agile environments**, translating business requirements into scalable technical solutions. Accelerated feature delivery by **15%**, driving measurable adoption across enterprise education platforms.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lilswapnil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
