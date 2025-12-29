@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Swapnil (Scott) Bhalerao
-## 🎓 MSCS @ Syracuse University ('25) | Full-Stack Developer | GenAI Enthusiast
+### 🎓 MSCS @ Syracuse University ('25) | Full-Stack Developer | GenAI Enthusiast
 
- # 🏆 Notable Achievements
+# 🏆 Notable Achievements
 
 ### 🗳️ Election Data Engineering & Reliability (Associated Press)
 Engineered high-availability **Python-based web scraping systems** for live election coverage, improving data ingestion efficiency by **72%** during peak traffic. Designed resilient proxy rotation, retry mechanisms, and monitoring hooks to maintain **99.9% uptime**, preventing data loss under national-scale workloads.
