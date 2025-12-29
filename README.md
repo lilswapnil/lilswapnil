@@ -3,16 +3,16 @@
 
  # 🏆 Notable Achievements
 
-## 🗳️ Election Data Engineering & Reliability (Associated Press)
+### 🗳️ Election Data Engineering & Reliability (Associated Press)
 Engineered high-availability **Python-based web scraping systems** for live election coverage, improving data ingestion efficiency by **72%** during peak traffic. Designed resilient proxy rotation, retry mechanisms, and monitoring hooks to maintain **99.9% uptime**, preventing data loss under national-scale workloads.
 
-## 🧠 Statistical Modeling & Cost Optimization (Street Care)
+### 🧠 Statistical Modeling & Cost Optimization (Street Care)
 Led **statistical analysis and ML-driven forecasting initiatives** that identified operational inefficiencies, reducing **annual costs by 15%**. Developed **SQL, R, and SAS dashboards** that shortened recurring reporting cycles by **12+ hours per month** for cross-functional teams.
 
-## 🛠️ Infrastructure Automation & IT Operations (Syracuse University Libraries)
+### 🛠️ Infrastructure Automation & IT Operations (Syracuse University Libraries)
 Automated **Linux/Unix server health checks** using Bash and PowerShell, saving **270+ staff hours annually** across institutional systems. Resolved **15K+ Tier-1/2 support incidents** across Windows, macOS, and Linux environments with an **11-minute average response time**, maintaining high service reliability.
 
-## 🚀 Scalable AI-Powered Enterprise Systems (Senior Software Engineer)
+### 🚀 Scalable AI-Powered Enterprise Systems (Senior Software Engineer)
 Integrated **TensorFlow-based AI models** into ERP platforms, improving assessment accuracy by **24%** and reducing grading errors by **36%**. Scaled **AWS-hosted microservices** using Docker and Kubernetes to support **18K+ concurrent users** with zero downtime during academic peak cycles.
 
 
