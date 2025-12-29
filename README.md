@@ -3,9 +3,6 @@
 
 # 🏆 Notable Achievements
 
-> ### [DevOps & Cloud Automation](https://github.com/lilswapnil/DevOps-CI-CD.git)
-> Automated CI/CD pipelines on Azure using GitHub Actions, Docker, & Terraform, cutting deployment cycles by 93%.
-
 > ### [AI & LLM System Development](https://github.com/lilswapnil/llm-from-scratch)
 > Led R&D on BERT & Transformers, improving model accuracy by 14-30%. Deployed an LLM chatbot that achieved 60% faster query resolution for 5,000+ users.
 
