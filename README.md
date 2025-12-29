@@ -6,9 +6,6 @@
 ## 🗳️ Election Data Engineering & Reliability (Associated Press)
 Engineered high-availability **Python-based web scraping systems** for live election coverage, improving data ingestion efficiency by **72%** during peak traffic. Designed resilient proxy rotation, retry mechanisms, and monitoring hooks to maintain **99.9% uptime**, preventing data loss under national-scale workloads.
 
-## 📊 Data Quality, ETL & Analytics Automation
-Built robust **ETL pipelines using Pandas and SQL** to normalize real-time data feeds, achieving **99% data accuracy** for downstream analytics and reporting. Automated validation and cleansing workflows that eliminated manual QA bottlenecks and stabilized production datasets at scale.
-
 ## 🧠 Statistical Modeling & Cost Optimization (Street Care)
 Led **statistical analysis and ML-driven forecasting initiatives** that identified operational inefficiencies, reducing **annual costs by 15%**. Developed **SQL, R, and SAS dashboards** that shortened recurring reporting cycles by **12+ hours per month** for cross-functional teams.
 
@@ -17,9 +14,6 @@ Automated **Linux/Unix server health checks** using Bash and PowerShell, saving 
 
 ## 🚀 Scalable AI-Powered Enterprise Systems (Senior Software Engineer)
 Integrated **TensorFlow-based AI models** into ERP platforms, improving assessment accuracy by **24%** and reducing grading errors by **36%**. Scaled **AWS-hosted microservices** using Docker and Kubernetes to support **18K+ concurrent users** with zero downtime during academic peak cycles.
-
-## 💡 Business-Aligned Engineering Impact
-Collaborated closely with product, data, and academic stakeholders in **Agile environments**, translating business requirements into scalable technical solutions. Accelerated feature delivery by **15%**, driving measurable adoption across enterprise education platforms.
 
 
 # 📊 GitHub Stats:
