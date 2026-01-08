@@ -94,7 +94,7 @@ featured_projects:
 </p>
 
 
-# 🛠️ Some Tools I Have Used and Learned
+### 🛠️ Some Tools I Have Used and Learned
 
 <p align="center">
 
