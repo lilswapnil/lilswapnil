@@ -117,25 +117,22 @@ hobbies:
 >
 > **Tech Stack:** `TypeScript` `Web APIs` `CRUD` `System Design`
 
-<h2>📊 GitHub Stats & Tech Stack</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
-<table>
-  <tr>
-    <!-- LEFT: GitHub Stats -->
-    <td valign="top" width="50%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lilswapnil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=dark&hide_border=false&layout=compact" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lilswapnil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=dark&hide_border=false&layout=compact" />
+---
 
-    </td>
-
-    <!-- RIGHT: Tech Stack -->
-    <td valign="top" width="50%">
+<h2 align="left">🚀 Tech Stack</h2>
 
 <p align="left">
 
-<!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
@@ -143,44 +140,29 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42"/>
 
-<br/>
+<br/><br/>
 
-<!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="42"/>
 
-<br/>
+<br/><br/>
 
-<!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42"/>
 
-<br/>
+<br/><br/>
 
-<!-- Data / ML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
-
-<br/>
-
-<!-- DevOps -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="42"/>
 
 </p>
-
-    </td>
-  </tr>
-</table>
 
 
 # 📫 Let's Connect!
