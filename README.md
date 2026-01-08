@@ -88,16 +88,16 @@ featured_projects:
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
 
 
-<h2 align="left">📊 GitHub Stats</h2>
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=dark&hide_border=false" />
 </p>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lilswapnil&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lilswapnil&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
