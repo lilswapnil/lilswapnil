@@ -34,58 +34,37 @@ currently_learning:
 
 featured_projects:
   artificial_intelligence_ml:
-    - name: "[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)"
-      tech_stack:
-        - LLMs
-        - Agentic AI
+    - name: Agentic AI LMS Assistant
+      tech: [LLMs, Agentic AI]
 
-    - name: "[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)"
-      tech_stack:
-        - PyTorch
-        - Transformers
+    - name: LLM From Scratch
+      tech: [PyTorch, Transformers]
 
-    - name: "[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)"
-      tech_stack:
-        - Scikit-learn
-        - Medical Imaging
+    - name: Lung Cancer Detection
+      tech: [Scikit-learn, Medical Imaging]
 
-    - name: "[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)"
-      tech_stack:
-        - Prompt Engineering
-        - FastAPI
+    - name: GenAI Financial Advisor
+      tech: [Prompt Engineering, FastAPI]
 
   data_science_analytics:
-    - name: "[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)"
-      tech_stack:
-        - Pandas
-        - Seaborn
+    - name: Gaming Analytics
+      tech: [Pandas, Seaborn]
 
-    - name: "[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)"
-      tech_stack:
-        - Matplotlib
-        - Exploratory Data Analysis
+    - name: K-Drama Analytics
+      tech: [Matplotlib, Exploratory Data Analysis]
 
   full_stack_systems:
-    - name: "[Musix](https://github.com/lilswapnil/musix)"
-      tech_stack:
-        - JavaScript
-        - REST APIs
+    - name: Musix
+      tech: [JavaScript, REST APIs]
 
-    - name: "[Moviez](https://github.com/lilswapnil/moviez)"
-      tech_stack:
-        - Next.js
-        - TMDB API
+    - name: Moviez
+      tech: [Next.js, TMDB API]
 
-    - name: "[Wildlife Monitoring System (Forest Watch)](https://github.com/lilswapnil/wildlife-monitoring)"
-      tech_stack:
-        - ESP32
-        - IoT Telemetry
+    - name: Wildlife Monitoring System (Forest Watch)
+      tech: [ESP32, IoT Telemetry]
 
-    - name: "[University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)"
-      tech_stack:
-        - TypeScript
-        - System Design
-
+    - name: University Recruitment ERP System
+      tech: [TypeScript, System Design]
 
 hobbies:
   - Gaming
