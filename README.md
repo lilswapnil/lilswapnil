@@ -32,57 +32,66 @@ currently_learning:
   - LLMs & Agentic AI
   - System Design at Scale
 
+featured_projects:
+  artificial_intelligence_ml:
+    - name: "[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)"
+      tech_stack:
+        - LLMs
+        - Agentic AI
+
+    - name: "[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)"
+      tech_stack:
+        - PyTorch
+        - Transformers
+
+    - name: "[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)"
+      tech_stack:
+        - Scikit-learn
+        - Medical Imaging
+
+    - name: "[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)"
+      tech_stack:
+        - Prompt Engineering
+        - FastAPI
+
+  data_science_analytics:
+    - name: "[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)"
+      tech_stack:
+        - Pandas
+        - Seaborn
+
+    - name: "[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)"
+      tech_stack:
+        - Matplotlib
+        - Exploratory Data Analysis
+
+  full_stack_systems:
+    - name: "[Musix](https://github.com/lilswapnil/musix)"
+      tech_stack:
+        - JavaScript
+        - REST APIs
+
+    - name: "[Moviez](https://github.com/lilswapnil/moviez)"
+      tech_stack:
+        - Next.js
+        - TMDB API
+
+    - name: "[Wildlife Monitoring System (Forest Watch)](https://github.com/lilswapnil/wildlife-monitoring)"
+      tech_stack:
+        - ESP32
+        - IoT Telemetry
+
+    - name: "[University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)"
+      tech_stack:
+        - TypeScript
+        - System Design
+
+
 hobbies:
   - Gaming
   - Movies
   - Exploring new tech
 ```
-
-## 🚀 Featured Projects
-
----
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-> ### [🧑🏻‍🏫🦾 Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)
-> **Tech Stack:** `Python` `LLMs` `Agentic AI` `Prompt Engineering` `APIs`
-
-> ### [🧠 LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)
-> **Tech Stack:** `Python` `PyTorch` `Transformers` `NumPy`
-
-> ### [🫁 Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)
-> **Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Jupyter`
-
-> ### [💰 GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)
-> **Tech Stack:** `Python` `LLMs` `Prompt Engineering` `FastAPI`
-
----
-
-### 📊 Data Science & Analytics
-
-> ### [🎮 Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)
-> **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`
-
-> ### [📺 K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)
-> **Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
-
----
-
-### 🌐 Full-Stack & Systems Engineering
-
-> ### [🎧 Musix](https://github.com/lilswapnil/musix)
-> **Tech Stack:** `JavaScript` `REST APIs` `HTML` `CSS`
-
-> ### [🎬 Moviez](https://github.com/lilswapnil/moviez)
-> **Tech Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `TMDB API`
-
-> ### [🌳🦌 Wildlife Monitoring System (Forest Watch)](https://github.com/lilswapnil/wildlife-monitoring)
-> **Tech Stack:** `Python` `FastAPI` `ESP32` `ThingSpeak API` `SQLite` `Chart.js`
-
-> ### [🧑🏻‍💼📈 University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)
-> **Tech Stack:** `TypeScript` `Web APIs` `CRUD` `System Design`
-
----
 
 <h2 align="left">📊 GitHub Stats</h2>
 
