@@ -5,7 +5,7 @@ located_in: New York, USA
 email: belikeswapnil@icloud.com
 
 highlight:
-  - Software Engineering in data-driven and ML-backed systems
+  - Software engineering for data-driven and ML-backed systems
   - Building scalable backend APIs and distributed services
   - Developing full-stack web applications
   - Working with cloud-native and DevOps workflows
@@ -87,7 +87,7 @@ featured_projects:
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
 
-# 🐒 GitHub Stats & 🛠️ Some Tools I Mastered
+# 📈 GitHub Stats & 🛠️ Tools
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" /> 
