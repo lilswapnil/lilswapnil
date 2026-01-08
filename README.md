@@ -1,5 +1,33 @@
 # 👋 Hi, I'm Swapnil (Scott) Bhalerao
-### 🎓 MSCS @ Syracuse University ('25) | Full-Stack Developer | GenAI Enthusiast
+```yaml
+profile:
+  name: Swapnil Bhalerao
+  title: Software Engineer | Data & ML Systems
+  location: New York, USA
+
+  summary: >
+    Software Engineer with experience in Python, data engineering,
+    machine learning, and cloud-native systems.
+    Focused on building scalable, reliable, and impact-driven solutions.
+
+  focus_areas:
+    - Data Engineering
+    - Machine Learning
+    - Distributed Systems
+    - Cloud & DevOps
+
+  primary_tech:
+    - Python
+    - SQL
+    - AWS
+    - Docker
+    - TensorFlow
+    - React
+
+  education:
+    degree: MS in Computer Science
+    university: Syracuse University
+```
 
 ## 🏆 Notable Achievements
 
