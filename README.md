@@ -87,7 +87,7 @@ hobbies:
 **[Moviez](https://github.com/lilswapnil/moviez)** ·
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)** ·
-**[Book Scraper]([https://github.com/lilswapnil/wildlife-monitoring](https://github.com/lilswapnil/book-scraper.git))**
+**[Book Scraper]((https://github.com/lilswapnil/book-scraper.git))**
 
 <h2 align="left">📊 GitHub Stats</h2>
 
