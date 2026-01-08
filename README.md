@@ -94,6 +94,8 @@ featured_projects:
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=dark&hide_border=false" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=lilswapnil&theme=dark&hide_border=false&show_icons=true" />
+
 ---
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
@@ -157,5 +159,3 @@ featured_projects:
 &nbsp; &nbsp;[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/lilswapnil)
 &nbsp; &nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lilswapnil)
 &nbsp; &nbsp;[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belikeswapnil@icloud.com)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
