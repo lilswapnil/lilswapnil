@@ -120,11 +120,7 @@ hobbies:
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilswapnil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=dark&hide_border=false&layout=compact" />
 </p>
 
 ---
