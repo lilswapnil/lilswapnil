@@ -1,4 +1,21 @@
 # 👋 Hi, I'm Scott
+## 🚀 Featured Projects
+
+### 🤖 Artificial Intelligence & Machine Learning
+- **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** — LLMs, Agentic AI  
+- **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** — PyTorch, Transformers  
+- **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** — Scikit-learn, Medical Imaging  
+- **[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)** — Prompt Engineering, FastAPI  
+
+### 📊 Data Science & Analytics
+- **[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** — Pandas, Seaborn  
+- **[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)** — Matplotlib, Exploratory Data Analysis  
+
+### 🌐 Full-Stack & Systems Engineering
+- **[Musix](https://github.com/lilswapnil/musix)** — JavaScript, REST APIs  
+- **[Moviez](https://github.com/lilswapnil/moviez)** — Next.js, TMDB API  
+- **[Wildlife Monitoring System (Forest Watch)](https://github.com/lilswapnil/wildlife-monitoring)** — ESP32, IoT Telemetry  
+- **[University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)** — TypeScript, System Design  
 
 ```yaml
 name: Swapnil Satish Bhalerao
