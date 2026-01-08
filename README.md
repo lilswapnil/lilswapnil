@@ -7,6 +7,11 @@ current_role: Software Engineer
 education:
   - "Master's in Computer Science"
   - "Bachelor's in Information Technology"
+experience:
+  - The Associated Press
+  - Street Care
+  - Syracuse University Libraries
+  - Digital Edu IT Solutions
 
 fields_of_interest:
   - Data Engineering
