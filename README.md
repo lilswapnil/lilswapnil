@@ -45,29 +45,21 @@ hobbies:
 ## 🤖 Artificial Intelligence & Machine Learning
 
 > ### [🧑🏻‍🏫🦾 Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)
-> Designed an **agentic AI–powered learning management system** capable of autonomous task execution such as policy lookup, academic Q&A, and tutoring workflows. Demonstrates real-world **agent orchestration and tool-augmented reasoning**.
->
 > **Tech Stack:** `Python` `LLMs` `Agentic AI` `Prompt Engineering` `APIs`
 
 ---
 
 > ### [🧠 LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)
-> Built a **decoder-only transformer language model from first principles**, implementing tokenization, attention mechanisms, and training loops to deeply understand LLM internals beyond API usage.
->
 > **Tech Stack:** `Python` `PyTorch` `Transformers` `NumPy`
 
 ---
 
 > ### [🫁 Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)
-> Developed a **machine learning classification pipeline** for early lung cancer risk detection using structured medical data, with a focus on preprocessing, feature engineering, and model evaluation.
->
 > **Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Jupyter`
 
 ---
 
 > ### [💰 GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)
-> Built a **Generative AI financial assistant** capable of answering complex finance questions using LLM-based reasoning, prompt engineering, and modular AI workflows with safety constraints.
->
 > **Tech Stack:** `Python` `LLMs` `Prompt Engineering` `FastAPI`
 
 ---
@@ -75,15 +67,11 @@ hobbies:
 ## 📊 Data Science & Analytics
 
 > ### [🎮 Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)
-> Performed **behavioral and performance analytics** on gaming datasets to uncover trends in engagement, retention, and player behavior using exploratory data analysis and KPI-driven insights.
->
 > **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`
 
 ---
 
 > ### [📺 K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)
-> Conducted an **end-to-end data science analysis** on 1,000+ Korean dramas (1969–2025), covering data cleaning, preprocessing, visualization, and trend discovery to support downstream ML tasks.
->
 > **Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
 ---
@@ -91,29 +79,21 @@ hobbies:
 ## 🌐 Full-Stack & Systems Engineering
 
 > ### [🎧 Musix](https://github.com/lilswapnil/musix)
-> Built a **music discovery web application** with API-driven search and interactive UI flows, showcasing frontend state management and user-centric design patterns.
->
 > **Tech Stack:** `JavaScript` `REST APIs` `HTML` `CSS`
 
 ---
 
 > ### [🎬 Moviez](https://github.com/lilswapnil/moviez)
-> Developed a **production-grade streaming discovery platform** using Next.js with server-side rendering, dynamic routing, and real-time TMDB API integration for high-performance content browsing.
->
 > **Tech Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `TMDB API`
 
 ---
 
 > ### [🌳🦌 Wildlife Monitoring System (Forest Watch)](https://github.com/lilswapnil/wildlife-monitoring)
-> Engineered an **end-to-end IoT monitoring system** integrating ESP32 sensors, cloud data pipelines, a FastAPI backend, and a real-time analytics dashboard for wildlife detection.
->
 > **Tech Stack:** `Python` `FastAPI` `ESP32` `ThingSpeak API` `SQLite` `Chart.js`
 
 ---
 
 > ### [🧑🏻‍💼📈 University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)
-> Built a **business-focused ERP application** to manage recruitment workflows, applications, and administrative operations with modular architecture and scalable backend logic.
->
 > **Tech Stack:** `TypeScript` `Web APIs` `CRUD` `System Design`
 
 ---
