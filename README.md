@@ -2,7 +2,7 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 
-<p align="center">
+<p align="left">
   <!-- Row 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
