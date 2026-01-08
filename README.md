@@ -18,19 +18,15 @@ experience:
   - The Associated Press
   - Street Care
   - Syracuse University Libraries
+  - iConsult Collaborative
   - Digital Edu IT Solutions
 
 fields_of_interest:
-  - Data Engineering
+  - Artificial Intelligence
   - Machine Learning
+  - Full-Stack Development
   - Distributed Systems
   - Cloud Computing
-  - Full-Stack Development
-
-technical_background:
-  - "Data & ML Systems Engineering"
-  - "Cloud-Native Application Development"
-  - "Automation & DevOps"
 
 currently_learning:
   - LLMs & Agentic AI
@@ -41,16 +37,6 @@ hobbies:
   - Movies
   - Exploring new tech
 ```
-
-## 🏆 Notable Achievements
-
-- **Associated Press:** Engineered high-availability **Python scraping systems** for national election coverage, improving data ingestion by **72%** while maintaining **99.9% uptime** under peak traffic.
-
-- **Street Care:** Led **ML-driven statistical analysis** that reduced **annual operational costs by 15%** and cut recurring reporting by **12+ hours/month**.
-
-- **Syracuse University Libraries:** Automated **Linux/Unix infrastructure monitoring**, saving **270+ staff hours annually**, and resolved **15K+ IT support incidents** with an **11-minute average response time**.
-
-- **Senior Software Engineer:** Integrated **TensorFlow-based AI models** into ERP systems, improving accuracy by **24%** and scaling **AWS microservices** to support **18K+ concurrent users** with zero downtime.
 
 # 🚀 Featured Projects
 
