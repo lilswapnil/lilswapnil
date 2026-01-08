@@ -47,17 +47,11 @@ hobbies:
 > ### [🧑🏻‍🏫🦾 Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)
 > **Tech Stack:** `Python` `LLMs` `Agentic AI` `Prompt Engineering` `APIs`
 
----
-
 > ### [🧠 LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)
 > **Tech Stack:** `Python` `PyTorch` `Transformers` `NumPy`
 
----
-
 > ### [🫁 Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)
 > **Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy` `Jupyter`
-
----
 
 > ### [💰 GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)
 > **Tech Stack:** `Python` `LLMs` `Prompt Engineering` `FastAPI`
@@ -69,8 +63,6 @@ hobbies:
 > ### [🎮 Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)
 > **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`
 
----
-
 > ### [📺 K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)
 > **Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
@@ -81,17 +73,11 @@ hobbies:
 > ### [🎧 Musix](https://github.com/lilswapnil/musix)
 > **Tech Stack:** `JavaScript` `REST APIs` `HTML` `CSS`
 
----
-
 > ### [🎬 Moviez](https://github.com/lilswapnil/moviez)
 > **Tech Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `TMDB API`
 
----
-
 > ### [🌳🦌 Wildlife Monitoring System (Forest Watch)](https://github.com/lilswapnil/wildlife-monitoring)
 > **Tech Stack:** `Python` `FastAPI` `ESP32` `ThingSpeak API` `SQLite` `Chart.js`
-
----
 
 > ### [🧑🏻‍💼📈 University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)
 > **Tech Stack:** `TypeScript` `Web APIs` `CRUD` `System Design`
