@@ -1,32 +1,34 @@
 # 👋 Hi, I'm Swapnil (Scott) Bhalerao
 ```yaml
-profile:
-  name: Swapnil Bhalerao
-  title: Software Engineer | Data & ML Systems
-  location: New York, USA
+# A Little Bit About Me and My Interests
 
-  summary: >
-    Software Engineer with experience in Python, data engineering,
-    machine learning, and cloud-native systems.
-    Focused on building scalable, reliable, and impact-driven solutions.
+name: Swapnil Bhalerao
+located_in: New York, USA
+current_role: Software Engineer
+education:
+  - "Master's in Computer Science"
+  - "Bachelor's in Information Technology"
 
-  focus_areas:
-    - Data Engineering
-    - Machine Learning
-    - Distributed Systems
-    - Cloud & DevOps
+fields_of_interest:
+  - Data Engineering
+  - Machine Learning
+  - Distributed Systems
+  - Cloud Computing
+  - Full-Stack Development
 
-  primary_tech:
-    - Python
-    - SQL
-    - AWS
-    - Docker
-    - TensorFlow
-    - React
+technical_background:
+  - "Data & ML Systems Engineering"
+  - "Cloud-Native Application Development"
+  - "Automation & DevOps"
 
-  education:
-    degree: MS in Computer Science
-    university: Syracuse University
+currently_learning:
+  - LLMs & Agentic AI
+  - System Design at Scale
+
+hobbies:
+  - Gaming
+  - Movies
+  - Exploring new tech
 ```
 
 ## 🏆 Notable Achievements
