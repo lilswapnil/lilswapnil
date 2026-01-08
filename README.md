@@ -146,9 +146,14 @@ featured_projects:
 
 # 📫 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.lilswapnil.com/)
-&nbsp; &nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lilswapnil)
-&nbsp; &nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lilswapnil)
-&nbsp; &nbsp;[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/lilswapnil)
-&nbsp; &nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lilswapnil)
-&nbsp; &nbsp;[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belikeswapnil@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://www.lilswapnil.com/)
+&nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lilswapnil)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lilswapnil)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lilswapnil)
+&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lilswapnil)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belikeswapnil@icloud.com)
