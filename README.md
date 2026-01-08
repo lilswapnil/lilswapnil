@@ -31,6 +31,12 @@ currently_learning:
   - LLMs & Agentic AI
   - System Design at Scale
 
+hobbies:
+  - Music
+  - Gaming
+  - Movies
+  - Exploring new tech
+
 featured_projects:
   artificial_intelligence_ml:
     - name: Agentic AI LMS Assistant
@@ -64,11 +70,6 @@ featured_projects:
 
     - name: University Recruitment ERP System
       tech: [TypeScript, System Design]
-
-hobbies:
-  - Gaming
-  - Movies
-  - Exploring new tech
 ```
 ## 🚀 Featured Projects
 
