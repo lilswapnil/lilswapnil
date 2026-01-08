@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Scott
-## 🚀 Featured Projects
-
-### 🤖 Artificial Intelligence & Machine Learning
-- **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** — LLMs, Agentic AI  
-- **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** — PyTorch, Transformers  
-- **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** — Scikit-learn, Medical Imaging  
-- **[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)** — Prompt Engineering, FastAPI  
+### 🚀 Featured Projects
+**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** — LLMs, Agentic AI | **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** — PyTorch, Transformers | **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** — Scikit-learn, Medical Imaging | **[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)** — Prompt Engineering, FastAPI  
 
 ### 📊 Data Science & Analytics
 - **[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** — Pandas, Seaborn  
