@@ -1,16 +1,21 @@
 # 👋 Hi, I'm Scott
-### 🚀 Featured Projects
-**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** | **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** | **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** | **[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**  
+## 🚀 Featured Projects
 
-### 📊 Data Science & Analytics
-- **[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** — Pandas, Seaborn  
-- **[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)** — Matplotlib, Exploratory Data Analysis  
+### 🤖 Artificial Intelligence & Machine Learning  
+**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
+**[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** ·
+**[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** ·
+**[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**
 
-### 🌐 Full-Stack & Systems Engineering
-- **[Musix](https://github.com/lilswapnil/musix)** — JavaScript, REST APIs  
-- **[Moviez](https://github.com/lilswapnil/moviez)** — Next.js, TMDB API  
-- **[Wildlife Monitoring System (Forest Watch)](https://github.com/lilswapnil/wildlife-monitoring)** — ESP32, IoT Telemetry  
-- **[University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)** — TypeScript, System Design  
+### 📊 Data Science & Analytics  
+**[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** ·
+**[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**
+
+### 🌐 Full-Stack & Systems Engineering  
+**[Musix](https://github.com/lilswapnil/musix)** ·
+**[Moviez](https://github.com/lilswapnil/moviez)** ·
+**[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
+**[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
 
 ```yaml
 name: Swapnil Satish Bhalerao
