@@ -93,7 +93,6 @@ featured_projects:
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" /> 
 </p>
 
----
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
@@ -147,7 +146,6 @@ featured_projects:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/>
 
 </p>
----
 
 # 📫 Let's Connect!
 
