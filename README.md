@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Swapnil (Scott) Bhalerao
 ```yaml
-# A Little Bit About Me and My Interests
-
 name: Swapnil Bhalerao
 located_in: New York, USA
 current_role: Software Engineer
