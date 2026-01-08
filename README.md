@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Scott
+```
 name: Swapnil Satish Bhalerao
 located_in: New York, USA
 email: belikeswapnil@icloud.com
@@ -39,37 +40,39 @@ hobbies:
 
 featured_projects:
   artificial_intelligence_ml:
-    - project: "[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)"
+    - project: https://github.com/lilswapnil/LMS-using-agenticAI
       tech_stack: [LLMs, Agentic AI]
 
-    - project: "[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)"
+    - project: https://github.com/lilswapnil/LLM-from-scratch
       tech_stack: [PyTorch, Transformers]
 
-    - project: "[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)"
+    - project: https://github.com/lilswapnil/lung-cancer-detection
       tech_stack: [Scikit-learn, Medical Imaging]
 
-    - project: "[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)"
+    - project: https://github.com/lilswapnil/genAI-financial-advisor
       tech_stack: [Prompt Engineering, FastAPI]
 
   data_science_analytics:
-    - project: "[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)"
+    - project: https://github.com/lilswapnil/gaming-analytics
       tech_stack: [Pandas, Seaborn]
 
-    - project: "[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)"
+    - project: https://github.com/lilswapnil/kdrama-analytics
       tech_stack: [Matplotlib, Exploratory Data Analysis]
 
   full_stack_systems:
-    - project: "[Musix](https://github.com/lilswapnil/musix)"
+    - project: https://github.com/lilswapnil/musix
       tech_stack: [JavaScript, REST APIs]
 
-    - project: "[Moviez](https://github.com/lilswapnil/moviez)"
+    - project: https://github.com/lilswapnil/moviez
       tech_stack: [Next.js, TMDB API]
 
-    - project: "[Wildlife Monitoring System (Forest Watch)](https://github.com/lilswapnil/wildlife-monitoring)"
+    - project: https://github.com/lilswapnil/wildlife-monitoring
       tech_stack: [ESP32, IoT Telemetry]
 
-    - project: "[University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)"
+    - project: https://github.com/lilswapnil/university-recruitment-erp
       tech_stack: [TypeScript, System Design]
+
+```
 
 ## 🚀 Featured Projects
 
