@@ -87,12 +87,13 @@ featured_projects:
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
 
-# 📈 GitHub Stats & 🛠️ Tools
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" /> 
 </p>
 
+###  🛠️ Tools
 <p align="center">
 
 <!-- Languages -->
