@@ -3,7 +3,7 @@
 ```yaml
 name: Swapnil Bhalerao
 located_in: New York, USA
-current_role: Software Engineer
+
 education:
   - "Master's in Computer Science"
   - "Bachelor's in Information Technology"
