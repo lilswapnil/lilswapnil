@@ -94,7 +94,19 @@ featured_projects:
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=dark&hide_border=false" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lilswapnil&theme=dark&hide_border=false&show_icons=true" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lilswapnil&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lilswapnil&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lilswapnil&icon=3&color=3)](https://visitcount.itsvg.in)
 
 ---
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
