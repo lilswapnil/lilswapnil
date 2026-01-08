@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Scott
-```yaml
 name: Swapnil Satish Bhalerao
 located_in: New York, USA
 email: belikeswapnil@icloud.com
@@ -72,7 +71,6 @@ featured_projects:
     - project: "[University Recruitment ERP System](https://github.com/lilswapnil/university-recruitment-erp)"
       tech_stack: [TypeScript, System Design]
 
-```
 ## 🚀 Featured Projects
 
 ### 🤖 Artificial Intelligence & Machine Learning  
