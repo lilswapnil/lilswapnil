@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Scott
+# 👋 Hi, I'm Scott
 
 ```yaml
 name: Swapnil Satish Bhalerao
@@ -38,11 +38,11 @@ hobbies:
   - Exploring new tech
 ```
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
 > ### [🧑🏻‍🏫🦾 Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)
 > **Tech Stack:** `Python` `LLMs` `Agentic AI` `Prompt Engineering` `APIs`
@@ -58,7 +58,7 @@ hobbies:
 
 ---
 
-## 📊 Data Science & Analytics
+### 📊 Data Science & Analytics
 
 > ### [🎮 Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)
 > **Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Jupyter`
@@ -68,7 +68,7 @@ hobbies:
 
 ---
 
-## 🌐 Full-Stack & Systems Engineering
+### 🌐 Full-Stack & Systems Engineering
 
 > ### [🎧 Musix](https://github.com/lilswapnil/musix)
 > **Tech Stack:** `JavaScript` `REST APIs` `HTML` `CSS`
