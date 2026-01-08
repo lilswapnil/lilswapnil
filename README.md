@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Swapnil (Scott) Bhalerao
+# 👋 Hi, I'm Scott
 
 ```yaml
-name: Swapnil Bhalerao
+name: Swapnil Satish Bhalerao
 located_in: New York, USA
 email: belikeswapnil@icloud.com
 
