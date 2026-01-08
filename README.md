@@ -37,39 +37,39 @@ hobbies:
   - Movies
   - Exploring new tech
 
-featured_projects:
-  artificial_intelligence_ml:
-    - name: Agentic AI LMS Assistant
-      tech: [LLMs, Agentic AI]
+# featured projects
+artificial_intelligence_ml:
+  - name: Agentic AI LMS Assistant
+    tech: [LLMs, Agentic AI]
 
-    - name: LLM From Scratch
-      tech: [PyTorch, Transformers]
+  - name: LLM From Scratch
+    tech: [PyTorch, Transformers]
 
-    - name: Lung Cancer Detection
-      tech: [Scikit-learn, Medical Imaging]
+  - name: Lung Cancer Detection
+    tech: [Scikit-learn, Medical Imaging]
 
-    - name: GenAI Financial Advisor
-      tech: [Prompt Engineering, FastAPI]
+  - name: GenAI Financial Advisor
+    tech: [Prompt Engineering, FastAPI]
 
-  data_science_analytics:
-    - name: Gaming Analytics
-      tech: [Pandas, Seaborn]
+data_science_analytics:
+  - name: Gaming Analytics
+    tech: [Pandas, Seaborn]
 
-    - name: K-Drama Analytics
-      tech: [Matplotlib, Exploratory Data Analysis]
+  - name: K-Drama Analytics
+    tech: [Matplotlib, Exploratory Data Analysis]
 
-  full_stack_systems:
-    - name: Musix
-      tech: [JavaScript, REST APIs]
+full_stack_systems:
+  - name: Musix
+    tech: [JavaScript, REST APIs]
 
-    - name: Moviez
-      tech: [Next.js, TMDB API]
+  - name: Moviez
+    tech: [Next.js, TMDB API]
 
-    - name: Wildlife Monitoring System (Forest Watch)
-      tech: [ESP32, IoT Telemetry]
+  - name: Wildlife Monitoring System (Forest Watch)
+    tech: [ESP32, IoT Telemetry]
 
-    - name: University Recruitment ERP System
-      tech: [TypeScript, System Design]
+  - name: University Recruitment ERP System
+    tech: [TypeScript, System Design]
 ```
 ## 🚀 Featured Projects
 
