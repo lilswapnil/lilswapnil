@@ -74,19 +74,13 @@ featured_projects:
 
 ```
 
-## 🚀 Featured Projects
-
-### 🤖 Artificial Intelligence & Machine Learning  
+## 🚀 Featured Projects 
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
 **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** ·
 **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** ·
 **[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**
-
-### 📊 Data Science & Analytics  
 **[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** ·
 **[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**
-
-### 🌐 Full-Stack & Systems Engineering  
 **[Musix](https://github.com/lilswapnil/musix)** ·
 **[Moviez](https://github.com/lilswapnil/moviez)** ·
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
