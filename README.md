@@ -156,6 +156,6 @@ featured_projects:
 &nbsp; &nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lilswapnil)
 &nbsp; &nbsp;[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/lilswapnil)
 &nbsp; &nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lilswapnil)
-&nbsp; &nbsp;[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lilscotty1@icloud.com)
+&nbsp; &nbsp;[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belikeswapnil@icloud.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
