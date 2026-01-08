@@ -3,6 +3,7 @@
 ```yaml
 name: Swapnil Bhalerao
 located_in: New York, USA
+email: belikeswapnil@icloud.com
 
 highlight:
   - "Software Engineering in data-driven and ML-backed systems"
