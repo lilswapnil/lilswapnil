@@ -73,7 +73,7 @@ featured_projects:
       tech_stack: [TypeScript, System Design]
 
 ```
-### 🖇️ Check Me Out
+### 🔗 Check Me Out
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
 **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** ·
 **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** ·
@@ -87,7 +87,7 @@ featured_projects:
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
 
-# 📊 GitHub Stats & 🛠️ Some Tools I Mastered
+# 🐒 GitHub Stats & 🛠️ Some Tools I Mastered
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" /> 
