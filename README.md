@@ -4,6 +4,12 @@
 name: Swapnil Bhalerao
 located_in: New York, USA
 
+highlight:
+  - "Software Engineering in data-driven and ML-backed systems"
+  - "Building scalable backend APIs and distributed services"
+  - "Developing full-stack web applications"
+  - "Working with cloud-native and DevOps workflows"
+
 education:
   - "Master's in Computer Science"
   - "Bachelor's in Information Technology"
