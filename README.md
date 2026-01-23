@@ -99,7 +99,11 @@ featured_projects:
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" /> 
+</p>
 
 ### 🔗 Check My Projects Out
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
@@ -114,13 +118,6 @@ featured_projects:
 **[Moviez](https://github.com/lilswapnil/moviez)** ·
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" /> 
-</p>
-
 
 # 📫 Let's Connect!
 
