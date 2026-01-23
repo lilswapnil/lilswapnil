@@ -79,6 +79,20 @@ featured_projects:
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" /> 
 </p>
 
+### 🔗 Check My Projects Out
+**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
+**[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** ·
+**[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** ·
+**[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**
+
+**[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** ·
+**[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**
+
+**[Musix](https://github.com/lilswapnil/musix)** ·
+**[Moviez](https://github.com/lilswapnil/moviez)** ·
+**[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
+**[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
+
 ### Core Technologies
 
 **Languages**  
@@ -103,20 +117,6 @@ featured_projects:
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
-
-### 🔗 Check My Projects Out
-**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
-**[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** ·
-**[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** ·
-**[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**
-
-**[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** ·
-**[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**
-
-**[Musix](https://github.com/lilswapnil/musix)** ·
-**[Moviez](https://github.com/lilswapnil/moviez)** ·
-**[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
-**[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
 
 # 📫 Let's Connect!
 
