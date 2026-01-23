@@ -77,12 +77,12 @@ featured_projects:
 ### <p align="center"> Programming Languages, Tools and Technologies: </p>
 <p align="center"> Languages </br> </p>
    <p align="center">
-      <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py,swift" href="https://skillicons.dev"/> 
+      <img src="https://skillicons.dev/icons?i=js,py,java,cpp,c" href="https://skillicons.dev"/> 
    </p>
 
 <p align="center"> Web Development </br> </p>
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=spring,react,nodejs,postman,bootstrap,html,css" href="https://skillicons.dev"/> 
+      <img src="https://skillicons.dev/icons?i=react,nodejs,postman,spring,bootstrap,html,css" href="https://skillicons.dev"/> 
     </p>
 
 <p align="center"> Database </br> </p>
