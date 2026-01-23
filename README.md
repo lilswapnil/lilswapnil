@@ -96,7 +96,7 @@ featured_projects:
     </p>
 
 
-### 🔗 Check Me Out
+### 🔗 Check My Projects Out
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
 **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** ·
 **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** ·
