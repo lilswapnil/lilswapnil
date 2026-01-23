@@ -73,6 +73,29 @@ featured_projects:
       tech_stack: [TypeScript, System Design]
 
 ```
+
+### <p align="center"> Programming Languages, Tools and Technologies: </p>
+<p align="center"> Languages </br> </p>
+   <p align="center">
+      <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py,swift" href="https://skillicons.dev"/> 
+   </p>
+
+<p align="center"> Web Development </br> </p>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=spring,react,nodejs,postman,bootstrap,html,css" href="https://skillicons.dev"/> 
+    </p>
+
+<p align="center"> Database </br> </p>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" href="https://skillicons.dev"/> 
+    </p>
+
+<p align="center"> Other </br> </p>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=aws,git,docker,linux,bash,vscode" href="https://skillicons.dev"/> 
+    </p>
+
+
 ### 🔗 Check Me Out
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
 **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** ·
