@@ -74,26 +74,30 @@ featured_projects:
 
 ```
 
-### <p align="center"> Programming Languages, Tools and Technologies: </p>
-<p align="center"> Languages </br> </p>
-   <p align="center">
-      <img src="https://skillicons.dev/icons?i=js,py,java,cpp,c" href="https://skillicons.dev"/> 
-   </p>
+### Core Technologies
 
-<p align="center"> Web Development </br> </p>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,postman,spring,bootstrap,html,css" href="https://skillicons.dev"/> 
-    </p>
+**Languages**  
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![SQL](https://skillicons.dev/icons?i=sql)
 
-<p align="center"> Database </br> </p>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" href="https://skillicons.dev"/> 
-    </p>
+**Backend & Data Engineering**  
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Spring](https://skillicons.dev/icons?i=spring)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-<p align="center"> Other </br> </p>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=aws,git,docker,linux,bash,vscode" href="https://skillicons.dev"/> 
-    </p>
+**Frontend (Production Use)**  
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+**Cloud, DevOps & Systems**  
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+
 
 
 ### 🔗 Check My Projects Out
