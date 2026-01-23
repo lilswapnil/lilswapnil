@@ -78,6 +78,7 @@ featured_projects:
 
 **Languages**  
 ![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Java](https://skillicons.dev/icons?i=java)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![SQL](https://skillicons.dev/icons?i=sql)
