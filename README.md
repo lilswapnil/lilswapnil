@@ -89,18 +89,41 @@ projects:
 </p>
 
 ### 🔗 Check My Projects Out
-**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ·
-**[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** ·
-**[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** ·
-**[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**
 
-**[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** ·
-**[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**
+**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)**  
+`LLMs · Agentic AI · LangChain · Workflow Automation · AI Orchestration`
 
-**[Musix](https://github.com/lilswapnil/musix)** ·
-**[Moviez](https://github.com/lilswapnil/moviez)** ·
-**[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ·
-**[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**
+**[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)**  
+`PyTorch · Transformers · Neural Networks · Model Training · Deep Learning`
+
+**[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)**  
+`Scikit-learn · Medical Imaging · Feature Engineering · Classification Models`
+
+**[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**  
+`Prompt Engineering · FastAPI · RAG Pipelines · LLM APIs · Backend Services`
+
+---
+
+**[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)**  
+`Pandas · Seaborn · Exploratory Data Analysis · Data Visualization`
+
+**[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**  
+`Matplotlib · Data Cleaning · Exploratory Data Analysis · Statistical Insights`
+
+---
+
+**[Musix](https://github.com/lilswapnil/musix)**  
+`JavaScript · REST APIs · Backend Integration · Authentication · Web Services`
+
+**[Moviez](https://github.com/lilswapnil/moviez)**  
+`Next.js · TMDB API · Server-Side Rendering · Frontend Architecture`
+
+**[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)**  
+`ESP32 · IoT Telemetry · Edge Computing · Sensor Data · Real-Time Monitoring`
+
+**[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**  
+`TypeScript · System Design · Role-Based Access · Database Modeling · Enterprise Workflows`
+
 
 ### Core Technologies
 
