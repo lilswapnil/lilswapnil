@@ -90,39 +90,73 @@ projects:
 
 ### 🔗 Check My Projects Out
 
+### 🔗 Check My Projects Out
+
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)**  
-`LLMs · Agentic AI · LangChain · Workflow Automation · AI Orchestration`
+![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A)
+![Automation](https://img.shields.io/badge/Workflow_Automation-2E8B57)
+![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-1E90FF)
 
 **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)**  
-`PyTorch · Transformers · Neural Networks · Model Training · Deep Learning`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A5ACD)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-4682B4)
 
 **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)**  
-`Scikit-learn · Medical Imaging · Feature Engineering · Classification Models`
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-8B0000)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2F4F4F)
+![Classification](https://img.shields.io/badge/Classification_Models-556B2F)
 
 **[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**  
-`Prompt Engineering · FastAPI · RAG Pipelines · LLM APIs · Backend Services`
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-800080)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-000000)
 
 ---
 
 **[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)**  
-`Pandas · Seaborn · Exploratory Data Analysis · Data Visualization`
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
+![EDA](https://img.shields.io/badge/EDA-708090)
+![Visualization](https://img.shields.io/badge/Data_Visualization-2E8B57)
 
 **[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**  
-`Matplotlib · Data Cleaning · Exploratory Data Analysis · Statistical Insights`
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-696969)
+![EDA](https://img.shields.io/badge/EDA-708090)
+![Statistics](https://img.shields.io/badge/Statistical_Insights-483D8B)
 
 ---
 
 **[Musix](https://github.com/lilswapnil/musix)**  
-`JavaScript · REST APIs · Backend Integration · Authentication · Web Services`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![REST](https://img.shields.io/badge/REST_APIs-008080)
+![Auth](https://img.shields.io/badge/Authentication-2F4F4F)
+![Web Services](https://img.shields.io/badge/Web_Services-1E90FF)
 
 **[Moviez](https://github.com/lilswapnil/moviez)**  
-`Next.js · TMDB API · Server-Side Rendering · Frontend Architecture`
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TMDB](https://img.shields.io/badge/TMDB_API-01D277)
+![SSR](https://img.shields.io/badge/SSR-4B0082)
+![Frontend](https://img.shields.io/badge/Frontend_Architecture-4682B4)
 
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)**  
-`ESP32 · IoT Telemetry · Edge Computing · Sensor Data · Real-Time Monitoring`
+![ESP32](https://img.shields.io/badge/ESP32-FF6F00)
+![IoT](https://img.shields.io/badge/IoT_Telemetry-228B22)
+![Edge](https://img.shields.io/badge/Edge_Computing-2E8B57)
+![Realtime](https://img.shields.io/badge/Real--Time_Monitoring-1E90FF)
 
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)**  
-`TypeScript · System Design · Role-Based Access · Database Modeling · Enterprise Workflows`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-4B0082)
+![RBAC](https://img.shields.io/badge/RBAC-2F4F4F)
+![Databases](https://img.shields.io/badge/Database_Modeling-556B2F)
+![Enterprise](https://img.shields.io/badge/Enterprise_Workflows-708090)
 
 
 ### Core Technologies
