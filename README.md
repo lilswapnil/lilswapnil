@@ -49,47 +49,37 @@ projects:
   base_repo_url: https://github.com/lilswapnil
 
   artificial_intelligence_ml:
-    - name: LMS using Agentic AI
-      repo: LMS-using-agenticAI
-      tech_stack: [LLMs, Agentic AI]
+    - repo: LMS-using-agenticAI
+      tech_stack: [LLMs, Agentic AI, LangChain, Workflow Automation, AI Orchestration]
 
-    - name: LLM from Scratch
-      repo: LLM-from-scratch
-      tech_stack: [PyTorch, Transformers]
+    - repo: LLM-from-scratch
+      tech_stack: [PyTorch, Transformers, Neural Networks, Model Training, Deep Learning]
 
-    - name: Lung Cancer Detection
-      repo: lung-cancer-detection
-      tech_stack: [Scikit-learn, Medical Imaging]
+    - repo: lung-cancer-detection
+      tech_stack: [Scikit-learn, Medical Imaging, Feature Engineering, Classification Models]
 
-    - name: GenAI Financial Advisor
-      repo: genAI-financial-advisor
-      tech_stack: [Prompt Engineering, FastAPI]
+    - repo: genAI-financial-advisor
+      tech_stack: [Prompt Engineering, FastAPI, RAG Pipelines, LLM APIs, Backend Services]
 
   data_science_analytics:
-    - name: Gaming Analytics
-      repo: gaming-analytics
-      tech_stack: [Pandas, Seaborn]
+    - repo: gaming-analytics
+      tech_stack: [Pandas, Seaborn, Exploratory Data Analysis, Data Visualization]
 
-    - name: K-Drama Analytics
-      repo: kdrama-analytics
-      tech_stack: [Matplotlib, Exploratory Data Analysis]
+    - repo: kdrama-analytics
+      tech_stack: [Matplotlib, Data Cleaning, Exploratory Data Analysis, Statistical Insights]
 
   full_stack_systems:
-    - name: Musix
-      repo: musix
-      tech_stack: [JavaScript, REST APIs]
+    - repo: musix
+      tech_stack: [JavaScript, REST APIs, Backend Integration, Authentication, Web Services]
 
-    - name: Moviez
-      repo: moviez
-      tech_stack: [Next.js, TMDB API]
+    - repo: moviez
+      tech_stack: [Next.js, TMDB API, Server-Side Rendering, Frontend Architecture]
 
-    - name: Wildlife Monitoring
-      repo: wildlife-monitoring
-      tech_stack: [ESP32, IoT Telemetry]
+    - repo: wildlife-monitoring
+      tech_stack: [ESP32, IoT Telemetry, Edge Computing, Sensor Data, Real-Time Monitoring]
 
-    - name: University Recruitment ERP
-      repo: university-recruitment-erp
-      tech_stack: [TypeScript, System Design]
+    - repo: university-recruitment-erp
+      tech_stack: [TypeScript, System Design, Role-Based Access, Database Modeling, Enterprise Workflows]
 
 ```
 ### 📈 GitHub Stats
