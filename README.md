@@ -82,8 +82,6 @@ personal:
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-000000)
 
----
-
 ## 📊 Data Science & Analytics
 
 **[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)**  
@@ -97,8 +95,6 @@ personal:
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-696969)
 ![EDA](https://img.shields.io/badge/EDA-708090)
 ![Statistics](https://img.shields.io/badge/Statistical_Insights-483D8B)
-
----
 
 ## 🧩 Full-Stack & Systems Engineering
 
