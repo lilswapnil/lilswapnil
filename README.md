@@ -47,22 +47,33 @@ personal:
 ```
 ### 📈 GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <tr style="border:none;">
-    <td align="center" style="border:none;">
-      <img 
+<table
+  align="center"
+  role="presentation"
+  cellpadding="0"
+  cellspacing="0"
+  style="border:none !important;border-collapse:collapse !important;border-spacing:0 !important;"
+>
+  <tr style="border:none !important;">
+    <td align="center" style="border:none !important;padding:0 !important;">
+      <img
         src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false"
         alt="GitHub Streak Stats"
+        style="display:block;"
       />
     </td>
-    <td align="center" style="border:none;">
-      <img 
+
+    <td align="center" style="border:none !important;padding:0 !important;">
+      <img
         src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
         width="250"
-      >
+        alt="Coding GIF"
+        style="display:block;"
+      />
     </td>
   </tr>
 </table>
+
 
 
 ### 🔗 Check My Projects Out
