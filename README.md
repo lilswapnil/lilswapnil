@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Swapnil (a.k.a Scott)
+# 👋 Hi, I'm Scott
 ```yaml
 name: Swapnil Satish Bhalerao
 located_in: New York, USA
