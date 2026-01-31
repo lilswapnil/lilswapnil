@@ -45,38 +45,50 @@ personal:
     - Movies
     - Exploring new tech
 
-featured_projects:
+projects:
+  base_repo_url: https://github.com/lilswapnil
+
   artificial_intelligence_ml:
-    - project: https://github.com/lilswapnil/LMS-using-agenticAI
+    - name: LMS using Agentic AI
+      repo: LMS-using-agenticAI
       tech_stack: [LLMs, Agentic AI]
 
-    - project: https://github.com/lilswapnil/LLM-from-scratch
+    - name: LLM from Scratch
+      repo: LLM-from-scratch
       tech_stack: [PyTorch, Transformers]
 
-    - project: https://github.com/lilswapnil/lung-cancer-detection
+    - name: Lung Cancer Detection
+      repo: lung-cancer-detection
       tech_stack: [Scikit-learn, Medical Imaging]
 
-    - project: https://github.com/lilswapnil/genAI-financial-advisor
+    - name: GenAI Financial Advisor
+      repo: genAI-financial-advisor
       tech_stack: [Prompt Engineering, FastAPI]
 
   data_science_analytics:
-    - project: https://github.com/lilswapnil/gaming-analytics
+    - name: Gaming Analytics
+      repo: gaming-analytics
       tech_stack: [Pandas, Seaborn]
 
-    - project: https://github.com/lilswapnil/kdrama-analytics
+    - name: K-Drama Analytics
+      repo: kdrama-analytics
       tech_stack: [Matplotlib, Exploratory Data Analysis]
 
   full_stack_systems:
-    - project: https://github.com/lilswapnil/musix
+    - name: Musix
+      repo: musix
       tech_stack: [JavaScript, REST APIs]
 
-    - project: https://github.com/lilswapnil/moviez
+    - name: Moviez
+      repo: moviez
       tech_stack: [Next.js, TMDB API]
 
-    - project: https://github.com/lilswapnil/wildlife-monitoring
+    - name: Wildlife Monitoring
+      repo: wildlife-monitoring
       tech_stack: [ESP32, IoT Telemetry]
 
-    - project: https://github.com/lilswapnil/university-recruitment-erp
+    - name: University Recruitment ERP
+      repo: university-recruitment-erp
       tech_stack: [TypeScript, System Design]
 
 ```
