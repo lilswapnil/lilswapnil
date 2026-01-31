@@ -1,42 +1,49 @@
 # 👋 Hi, I'm Scott
 ```yaml
-name: Swapnil Satish Bhalerao
-located_in: New York, USA
-email: belikeswapnil@icloud.com
+profile:
+  name: Swapnil Satish Bhalerao
+  preferred_name: Scott
+  located_in: New York, USA
+  email: belikeswapnil@icloud.com
 
-highlight:
-  - Software engineering for data-driven and ML-backed systems
-  - Building scalable backend APIs and distributed services
-  - Developing full-stack web applications
-  - Working with cloud-native and DevOps workflows
+professional_focus:
+  themes:
+    - Software engineering for data-driven and ML-backed systems
+    - Building scalable backend APIs and distributed services
+    - Developing full-stack web applications
+    - Working with cloud-native and DevOps workflows
 
 education:
-  - Master's in Computer Science
-  - Bachelor's in Information Technology
+  graduate:
+    degree: Master's in Computer Science
+  undergraduate:
+    degree: Bachelor's in Information Technology
 
 experience:
-  - The Associated Press
-  - Street Care
-  - Syracuse University Libraries
-  - iConsult Collaborative
-  - Digital Edu IT Solutions
+  employers:
+    - The Associated Press
+    - Street Care
+    - Syracuse University Libraries
+    - iConsult Collaborative
+    - Digital Edu IT Solutions
 
-fields_of_interest:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full-Stack Development
-  - Distributed Systems
-  - Cloud Computing
+interests:
+  primary_domains:
+    - Artificial Intelligence
+    - Machine Learning
+    - Full-Stack Development
+    - Distributed Systems
+    - Cloud Computing
+  currently_learning:
+    - LLMs & Agentic AI
+    - System Design at Scale
 
-currently_learning:
-  - LLMs & Agentic AI
-  - System Design at Scale
-
-hobbies:
-  - Music
-  - Gaming
-  - Movies
-  - Exploring new tech
+personal:
+  hobbies:
+    - Music
+    - Gaming
+    - Movies
+    - Exploring new tech
 
 featured_projects:
   artificial_intelligence_ml:
