@@ -125,7 +125,7 @@ personal:
 ![Databases](https://img.shields.io/badge/Database_Modeling-556B2F)
 ![Enterprise](https://img.shields.io/badge/Enterprise_Workflows-708090)
 
-## Core Technologies
+## Skills
 
 **Languages**  
 ![Python](https://skillicons.dev/icons?i=python)
