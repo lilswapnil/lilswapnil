@@ -48,6 +48,24 @@ personal:
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="262" alt="Coding GIF"/>
 </p>
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false"
+    height="180"
+    alt="GitHub Streak Stats"
+    style="border-radius:12px;"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilswapnil&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css"
+    height="180"
+    alt="Top Languages"
+    style="border-radius:12px;"
+  />
+</p>
+
 
 # Check My Projects Out
 
