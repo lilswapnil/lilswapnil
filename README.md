@@ -45,9 +45,11 @@ personal:
     - Exploring new tech
 ```
 
-<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="32" style="vertical-align: middle;" />
+  Skills
+</h2>
 
-# Skills
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -103,7 +105,7 @@ personal:
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C) ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-696969) ![EDA](https://img.shields.io/badge/EDA-708090) ![Statistics](https://img.shields.io/badge/Statistical_Insights-483D8B)
 
 
-# Statistics
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Statistics
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" alt="GitHub Streak Stats" />
