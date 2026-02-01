@@ -80,7 +80,7 @@ personal:
 
 **[Musix](https://github.com/lilswapnil/musix)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![REST](https://img.shields.io/badge/REST_APIs-008080) ![Auth](https://img.shields.io/badge/Authentication-2F4F4F) ![Web Services](https://img.shields.io/badge/Web_Services-1E90FF)
 
-**[Moviez](https://github.com/lilswapnil/moviez)** ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB_API-01D277) ![SSR](https://img.shields.io/badge/SSR-4B0082) ![Frontend](https://img.shields.io/badge/Frontend_Architecture-4682B4)
+**[Moviez](https://github.com/lilswapnil/moviez)** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB_API-01D277) ![SSR](https://img.shields.io/badge/SSR-4B0082) ![Frontend](https://img.shields.io/badge/Frontend_Architecture-4682B4)
 
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ![ESP32](https://img.shields.io/badge/ESP32-FF6F00) ![IoT](https://img.shields.io/badge/IoT_Telemetry-228B22) ![Edge](https://img.shields.io/badge/Edge_Computing-2E8B57) ![Realtime](https://img.shields.io/badge/Real--Time_Monitoring-1E90FF)
 
