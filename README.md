@@ -65,6 +65,8 @@ personal:
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 
+
+
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Projects
 
 ### Full-Stack & Systems Engineering
