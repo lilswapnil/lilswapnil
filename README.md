@@ -7,13 +7,6 @@ profile:
   located_in: New York, USA
   email: belikeswapnil@icloud.com
 
-professional_focus:
-  themes:
-    - Software engineering for data-driven and ML-backed systems
-    - Building scalable backend APIs and distributed services
-    - Developing full-stack web applications
-    - Working with cloud-native and DevOps workflows
-
 education:
   graduate:
     degree: Master's in Computer Science
