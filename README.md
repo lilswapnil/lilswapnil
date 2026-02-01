@@ -67,7 +67,7 @@ personal:
 
 
 
-# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Projects
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="40" /> Projects
 
 ### Full-Stack & Systems Engineering
 
@@ -111,7 +111,7 @@ personal:
 </p>
 
 
-# Let's Connect!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="40" /> Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://lilswapnil.me/)
 &nbsp;&nbsp;
