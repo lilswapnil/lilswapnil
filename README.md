@@ -117,11 +117,11 @@ personal:
 ### 🛠️ Technical Skills
 
 **Languages**  
-![Python](https://skillicons.dev/icons?i=python) Python &nbsp;
-![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript &nbsp;
-![Java](https://skillicons.dev/icons?i=java) Java &nbsp;
-![TypeScript](https://skillicons.dev/icons?i=typescript) TypeScript &nbsp;
-![SQL](https://skillicons.dev/icons?i=sql) SQL
+![Python](https://skillicons.dev/icons?i=python)  &nbsp;
+![JavaScript](https://skillicons.dev/icons?i=javascript)  &nbsp;
+![Java](https://skillicons.dev/icons?i=java)  &nbsp;
+![TypeScript](https://skillicons.dev/icons?i=typescript)  &nbsp;
+![SQL](https://skillicons.dev/icons?i=sql) 
 
 ---
 
