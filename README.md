@@ -68,12 +68,7 @@ personal:
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)**  
-![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082)
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A)
-![Automation](https://img.shields.io/badge/Workflow_Automation-2E8B57)
-![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-1E90FF)
+**[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** ![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082) ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A) ![Automation](https://img.shields.io/badge/Workflow_Automation-2E8B57) ![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-1E90FF)
 
 **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
