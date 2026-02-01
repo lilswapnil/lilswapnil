@@ -141,7 +141,7 @@ personal:
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="195" width="320" alt="Coding GIF"/>
 </p>
 
-# 📫 Let's Connect!
+# Let's Connect!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://www.lilswapnil.com/)
 &nbsp;&nbsp;
