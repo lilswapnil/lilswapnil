@@ -135,7 +135,7 @@ personal:
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="200" alt="Coding GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="200" width="300" alt="Coding GIF"/>
 </p>
 
 # 📫 Let's Connect!
