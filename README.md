@@ -131,7 +131,7 @@ personal:
 ![Databases](https://img.shields.io/badge/Database_Modeling-556B2F)
 ![Enterprise](https://img.shields.io/badge/Enterprise_Workflows-708090)
 
-# GitHub Statistics
+# Statistics
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" alt="GitHub Streak Stats" />
