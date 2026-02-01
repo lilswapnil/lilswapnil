@@ -65,9 +65,9 @@ personal:
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 
-# <img src="https://icons8.com/icon/D8D65y6Vy5bY/document" width="32" style="vertical-align: middle;" /> Projects
+# <img src="https://img.icons8.com/?size=100&id=D8D65y6Vy5bY&format=png&color=000000" width="32" style="vertical-align: middle;" /> Projects
 
-### 🧩 Full-Stack & Systems Engineering
+### Full-Stack & Systems Engineering
 
 **[Musix](https://github.com/lilswapnil/musix)** &nbsp;&nbsp;
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![REST](https://img.shields.io/badge/REST_APIs-008080) ![Auth](https://img.shields.io/badge/Authentication-2F4F4F) ![Web Services](https://img.shields.io/badge/Web_Services-1E90FF)
@@ -81,7 +81,7 @@ personal:
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)** &nbsp;&nbsp;
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![System Design](https://img.shields.io/badge/System_Design-4B0082) ![RBAC](https://img.shields.io/badge/RBAC-2F4F4F) ![Databases](https://img.shields.io/badge/Database_Modeling-556B2F) ![Enterprise](https://img.shields.io/badge/Enterprise_Workflows-708090)
 
-### 🤖 Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** &nbsp;&nbsp;
  ![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082) ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A) ![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1)  ![Automation](https://img.shields.io/badge/Workflow_Automation-2E8B57) ![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-1E90FF) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
@@ -92,7 +92,7 @@ personal:
 **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** &nbsp;&nbsp;
  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-8B0000) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2F4F4F) ![Classification](https://img.shields.io/badge/Classification_Models-556B2F)
 
-### 📊 Data Science & Analytics
+### Data Science & Analytics
 
 **[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** &nbsp;&nbsp;
  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0) ![EDA](https://img.shields.io/badge/EDA-708090) ![Visualization](https://img.shields.io/badge/Data_Visualization-2E8B57)
