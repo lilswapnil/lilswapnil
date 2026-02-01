@@ -114,28 +114,37 @@ personal:
 
 # Skills
 
+### 🛠️ Technical Skills
+
 **Languages**  
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![SQL](https://skillicons.dev/icons?i=sql)
+![Python](https://skillicons.dev/icons?i=python) Python &nbsp;
+![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript &nbsp;
+![Java](https://skillicons.dev/icons?i=java) Java &nbsp;
+![TypeScript](https://skillicons.dev/icons?i=typescript) TypeScript &nbsp;
+![SQL](https://skillicons.dev/icons?i=sql) SQL
+
+---
 
 **Backend & Data Engineering**  
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Spring](https://skillicons.dev/icons?i=spring)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![FastAPI](https://skillicons.dev/icons?i=fastapi) FastAPI &nbsp;
+![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js &nbsp;
+![Spring](https://skillicons.dev/icons?i=spring) Spring &nbsp;
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) PostgreSQL
+
+---
 
 **Frontend (Production Use)**  
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react) React &nbsp;
+![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js
+
+---
 
 **Cloud, DevOps & Systems**  
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws) AWS &nbsp;
+![Docker](https://skillicons.dev/icons?i=docker) Docker &nbsp;
+![Linux](https://skillicons.dev/icons?i=linux) Linux &nbsp;
+![Git](https://skillicons.dev/icons?i=git) Git
+
 
 # GitHub Statistics
 
