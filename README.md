@@ -117,7 +117,7 @@ personal:
 ### 🛠️ Technical Skills
 
 **Languages** ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Java](https://skillicons.dev/icons?i=java) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![SQL](https://skillicons.dev/icons?i=sql) 
-
+</br>
 **Backend & Data Engineering** ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Spring](https://skillicons.dev/icons?i=spring) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
 </br>
 **Frontend (Production Use)** ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) 
