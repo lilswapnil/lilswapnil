@@ -114,8 +114,6 @@ personal:
 
 # Skills
 
-### 🛠️ Technical Skills
-
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Java](https://skillicons.dev/icons?i=java)
