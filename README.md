@@ -50,7 +50,7 @@ personal:
 ![Java](https://skillicons.dev/icons?i=java)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![React](https://skillicons.dev/icons?i=react)
