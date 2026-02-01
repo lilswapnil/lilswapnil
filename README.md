@@ -42,7 +42,7 @@ personal:
     - Exploring new tech
 ```
 
-# Check My Projects Out
+# Projects
 
 ### Artificial Intelligence & Machine Learning
 
