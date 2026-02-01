@@ -53,11 +53,11 @@ personal:
 </p>
 
 
-###Check My Projects Out
+### Check My Projects Out
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+## Artificial Intelligence & Machine Learning
 
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)**  
 ![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white)
@@ -84,7 +84,7 @@ personal:
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-000000)
 
-## 📊 Data Science & Analytics
+## Data Science & Analytics
 
 **[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -98,7 +98,7 @@ personal:
 ![EDA](https://img.shields.io/badge/EDA-708090)
 ![Statistics](https://img.shields.io/badge/Statistical_Insights-483D8B)
 
-## 🧩 Full-Stack & Systems Engineering
+## Full-Stack & Systems Engineering
 
 **[Musix](https://github.com/lilswapnil/musix)**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
