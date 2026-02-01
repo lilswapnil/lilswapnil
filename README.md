@@ -10,8 +10,10 @@ profile:
 education:
   graduate:
     degree: Master's in Computer Science
+    school: Syracuse University
   undergraduate:
     degree: Bachelor's in Information Technology
+    school: Pune University
 
 experience:
   employers:
