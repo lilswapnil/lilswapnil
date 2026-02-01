@@ -78,7 +78,7 @@ personal:
 
 ### 🧩 Full-Stack & Systems Engineering
 
-**[Musix](https://github.com/lilswapnil/musix)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![REST](https://img.shields.io/badge/REST_APIs-008080) ![Auth](https://img.shields.io/badge/Authentication-2F4F4F) ![Web Services](https://img.shields.io/badge/Web_Services-1E90FF)
+**[Musix](https://github.com/lilswapnil/musix)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![REST](https://img.shields.io/badge/REST_APIs-008080) ![Auth](https://img.shields.io/badge/Authentication-2F4F4F) ![Web Services](https://img.shields.io/badge/Web_Services-1E90FF)
 
 **[Moviez](https://github.com/lilswapnil/moviez)** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB_API-01D277) ![SSR](https://img.shields.io/badge/SSR-4B0082) ![Frontend](https://img.shields.io/badge/Frontend_Architecture-4682B4)
 
