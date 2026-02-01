@@ -121,14 +121,11 @@ personal:
 ![Java](https://skillicons.dev/icons?i=java)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![SQL](https://skillicons.dev/icons?i=mysql)
-
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
