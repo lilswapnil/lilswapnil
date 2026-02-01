@@ -76,14 +76,6 @@ personal:
 
 **[GenAI Financial Advisor](https://github.com/lilswapnil/genAI-financial-advisor)**   ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-800080) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-000000)
 
-
-### 📊 Data Science & Analytics
-
-**[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0) ![EDA](https://img.shields.io/badge/EDA-708090) ![Visualization](https://img.shields.io/badge/Data_Visualization-2E8B57)
-
-**[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C) ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-696969) ![EDA](https://img.shields.io/badge/EDA-708090) ![Statistics](https://img.shields.io/badge/Statistical_Insights-483D8B)
-
-
 ### 🧩 Full-Stack & Systems Engineering
 
 **[Musix](https://github.com/lilswapnil/musix)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![REST](https://img.shields.io/badge/REST_APIs-008080) ![Auth](https://img.shields.io/badge/Authentication-2F4F4F) ![Web Services](https://img.shields.io/badge/Web_Services-1E90FF)
@@ -93,6 +85,12 @@ personal:
 **[Forest Watch](https://github.com/lilswapnil/wildlife-monitoring)** ![ESP32](https://img.shields.io/badge/ESP32-FF6F00) ![IoT](https://img.shields.io/badge/IoT_Telemetry-228B22) ![Edge](https://img.shields.io/badge/Edge_Computing-2E8B57) ![Realtime](https://img.shields.io/badge/Real--Time_Monitoring-1E90FF)
 
 **[University Recruitment ERP](https://github.com/lilswapnil/university-recruitment-erp)** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![System Design](https://img.shields.io/badge/System_Design-4B0082) ![RBAC](https://img.shields.io/badge/RBAC-2F4F4F) ![Databases](https://img.shields.io/badge/Database_Modeling-556B2F) ![Enterprise](https://img.shields.io/badge/Enterprise_Workflows-708090)
+
+### 📊 Data Science & Analytics
+
+**[Gaming Analytics](https://github.com/lilswapnil/gaming-analytics)** ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0) ![EDA](https://img.shields.io/badge/EDA-708090) ![Visualization](https://img.shields.io/badge/Data_Visualization-2E8B57)
+
+**[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)**   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C) ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-696969) ![EDA](https://img.shields.io/badge/EDA-708090) ![Statistics](https://img.shields.io/badge/Statistical_Insights-483D8B)
 
 # Statistics
 
