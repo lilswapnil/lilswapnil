@@ -46,18 +46,23 @@ personal:
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Java](https://skillicons.dev/icons?i=java)
 ![SQL](https://skillicons.dev/icons?i=mysql)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Spring](https://skillicons.dev/icons?i=spring)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
+
 
 # Projects
 
