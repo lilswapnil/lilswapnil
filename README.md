@@ -115,7 +115,7 @@ personal:
 
 # Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)]([https://www.lilswapnil.me](https://lilswapnil.me/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://lilswapnil.me/)
 &nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lilswapnil)
 &nbsp;&nbsp;
