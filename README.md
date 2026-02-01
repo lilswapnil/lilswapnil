@@ -6,6 +6,9 @@ profile:
   preferred_name: Scott
   located_in: New York, USA
   email: belikeswapnil@icloud.com
+  tagline: >
+    Always open to collaborating on interesting problems or tackling real-world issues —
+    feel free to connect and build something impactful together.
 
 education:
   graduate:
