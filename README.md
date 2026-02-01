@@ -65,7 +65,7 @@ personal:
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 
-
+</br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="40" /> Projects
 
@@ -102,6 +102,7 @@ personal:
 **[K-Drama Analytics](https://github.com/lilswapnil/kdrama-analytics)** &nbsp;&nbsp;
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C) ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-696969) ![EDA](https://img.shields.io/badge/EDA-708090) ![Statistics](https://img.shields.io/badge/Statistical_Insights-483D8B)
 
+</br>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Statistics
 
@@ -110,6 +111,7 @@ personal:
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="195" width="320" alt="Coding GIF"/>
 </p>
 
+</br>
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Glasses.png" alt="Clinking Glasses" width="40" /> Let's Connect!
 
