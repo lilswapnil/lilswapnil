@@ -45,11 +45,8 @@ personal:
     - Exploring new tech
 ```
 
-<h2>
-  <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="32" style="vertical-align: middle;" />
-  Skills
-</h2>
 
+# <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="32" style="vertical-align: middle;" /> Skills
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -68,8 +65,7 @@ personal:
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 
-
-# Projects
+# <img src="https://icons8.com/icon/D8D65y6Vy5bY/document" width="32" style="vertical-align: middle;" /> Projects
 
 ### 🧩 Full-Stack & Systems Engineering
 
