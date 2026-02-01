@@ -116,7 +116,10 @@ personal:
 
 ### 🛠️ Technical Skills
 
-**Languages** ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Java](https://skillicons.dev/icons?i=java) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![SQL](https://skillicons.dev/icons?i=sql) **Backend & Data Engineering** ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Spring](https://skillicons.dev/icons?i=spring) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) **Frontend (Production Use)** ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) **Cloud, DevOps & Systems** ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git)
+**Languages** ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Java](https://skillicons.dev/icons?i=java) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![SQL](https://skillicons.dev/icons?i=sql) 
+**Backend & Data Engineering** ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Spring](https://skillicons.dev/icons?i=spring) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) 
+**Frontend (Production Use)** ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) 
+**Cloud, DevOps & Systems** ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git)
 
 # GitHub Statistics
 
