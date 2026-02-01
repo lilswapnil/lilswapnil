@@ -42,6 +42,23 @@ personal:
     - Exploring new tech
 ```
 
+# Skills
+
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Java](https://skillicons.dev/icons?i=java)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+
 # Projects
 
 ### Artificial Intelligence & Machine Learning
@@ -111,23 +128,6 @@ personal:
 ![RBAC](https://img.shields.io/badge/RBAC-2F4F4F)
 ![Databases](https://img.shields.io/badge/Database_Modeling-556B2F)
 ![Enterprise](https://img.shields.io/badge/Enterprise_Workflows-708090)
-
-# Skills
-
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Java](https://skillicons.dev/icons?i=java)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
 
 # GitHub Statistics
 
