@@ -93,7 +93,6 @@ personal:
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-000000)
 
----
 
 ### 📊 Data Science & Analytics
 
@@ -109,7 +108,6 @@ personal:
 ![EDA](https://img.shields.io/badge/EDA-708090)
 ![Statistics](https://img.shields.io/badge/Statistical_Insights-483D8B)
 
----
 
 ### 🧩 Full-Stack & Systems Engineering
 
