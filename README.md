@@ -45,7 +45,7 @@ personal:
     - Movies
     - Exploring new tech
 ```
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lilswapnil&theme=graywhite&hide_border=false" alt="GitHub Streak Stats" />
