@@ -4,7 +4,7 @@
 profile:
   name: Swapnil Satish Bhalerao
   preferred_name: Scott
-  located_in: New York, USA
+  location: New York, USA
   email: belikeswapnil@icloud.com
   tagline: >
     Always open to collaborating on interesting problems or tackling real-world issues.
