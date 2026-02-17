@@ -85,14 +85,37 @@ personal:
 
 ### Artificial Intelligence & Machine Learning
 
+**[Book Recommender System](https://github.com/lilswapnil/book-recommender)** &nbsp;&nbsp;
+![NLP](https://img.shields.io/badge/NLP-4682B4) 
+![Embeddings](https://img.shields.io/badge/Vector_Embeddings-4169E1) 
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-2E8B57) 
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E) 
+![Zero Shot](https://img.shields.io/badge/Zero_Shot_Classification-800080) 
+![Recommender Systems](https://img.shields.io/badge/Recommender_Systems-1E90FF) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** &nbsp;&nbsp;
- ![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082) ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A) ![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1)  ![Automation](https://img.shields.io/badge/Workflow_Automation-2E8B57) ![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-1E90FF) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
+![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white) 
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4B0082) 
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A) 
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1)  
+![Automation](https://img.shields.io/badge/Workflow_Automation-2E8B57) 
+![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-1E90FF) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** &nbsp;&nbsp;
- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A5ACD) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-4682B4) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-000000) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-800080)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E) 
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A5ACD) 
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-4682B4) 
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-000000) 
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-800080)
 
 **[Lung Cancer Detection](https://github.com/lilswapnil/lung-cancer-detection)** &nbsp;&nbsp;
- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-8B0000) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2F4F4F) ![Classification](https://img.shields.io/badge/Classification_Models-556B2F)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
+![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-8B0000) 
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-2F4F4F) 
+![Classification](https://img.shields.io/badge/Classification_Models-556B2F)
 
 ### Data Science & Analytics
 
