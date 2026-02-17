@@ -101,7 +101,6 @@ personal:
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-4169E1)  
 ![Automation](https://img.shields.io/badge/Workflow_Automation-2E8B57) 
 ![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-1E90FF) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 **[LLM From Scratch](https://github.com/lilswapnil/LLM-from-scratch)** &nbsp;&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
