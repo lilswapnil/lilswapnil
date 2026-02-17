@@ -85,7 +85,7 @@ personal:
 
 ### Artificial Intelligence & Machine Learning
 
-**[Book Recommender System](https://github.com/lilswapnil/book-recommender)** &nbsp;&nbsp;
+**[Book Recommender](https://github.com/lilswapnil/book-recommender)** &nbsp;&nbsp;
 ![NLP](https://img.shields.io/badge/NLP-4682B4) 
 ![Embeddings](https://img.shields.io/badge/Vector_Embeddings-4169E1) 
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-2E8B57) 
