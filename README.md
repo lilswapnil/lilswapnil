@@ -92,7 +92,6 @@ personal:
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E) 
 ![Zero Shot](https://img.shields.io/badge/Zero_Shot_Classification-800080) 
 ![Recommender Systems](https://img.shields.io/badge/Recommender_Systems-1E90FF) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **[Agentic AI LMS Assistant](https://github.com/lilswapnil/LMS-using-agenticAI)** &nbsp;&nbsp;
 ![Automation](https://img.shields.io/badge/Workflow_Automation-2E8B57) 
