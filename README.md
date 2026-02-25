@@ -20,6 +20,7 @@ education:
 
 experience:
   employers:
+    - Software Implementation Specialist @ City of Syracuse
     - Web Scraper @ The Associated Press
     - Data Scientist @ Street Care
     - Tech Support @ Syracuse University Libraries
