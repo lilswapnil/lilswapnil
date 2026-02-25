@@ -20,11 +20,11 @@ education:
 
 experience:
   employers:
-    - The Associated Press
-    - Street Care
-    - Syracuse University Libraries
-    - iConsult Collaborative
-    - Digital Edu IT Solutions
+    - Web Scraper @ The Associated Press
+    - Data Scientist @ Street Care
+    - Tech Support @ Syracuse University Libraries
+    - Software Developer @ iConsult Collaborative
+    - Sr. Software Engineer @ Digital Edu IT Solutions
 
 interests:
   primary_domains:
